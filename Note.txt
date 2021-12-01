@@ -1,0 +1,11 @@
+Hello
+Có 2 file là 
+- main.c: Tải database từ file từ điển vnedict.txt
+- main-million.c: Tải database từ file 1 triệu phần tử
+-> Tương ứng sẽ có 2 file compiler là run.script và run-million.script chứa lệnh để compiler!
+* Mọi người phải cài gcc và thư viện gtk trước
+sau đó sẽ ra được 2 file tương ứng là main và main-million.
+
+Muốn thoát chương trình thì cần nhấn vào Exit program để xoá file nền .db, hoặc để ý xoá trước khi chạy lệnh ./main để tránh xung đột chương trình.
+
+Have fun!^^

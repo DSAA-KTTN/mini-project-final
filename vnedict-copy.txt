@@ -1,0 +1,3777 @@
+ability: có khả năng
+about: khoảng
+acceptance: chấp thuận
+accepted: chấp thuận
+accommodate: cung cấp, chứa đựng
+accommodations: chỗ ở
+accompany: đồng hành
+accomplishment: thành quả
+account: tài khoản
+accountability: trách nhiệm
+accounting: kế toán
+achieve: đạt được
+achieved: đã đạt được
+acknowledgments: sự nhìn nhận
+acquired: mua
+acting: diễn xuất
+action: hành động
+activity: hoạt động
+actor: diễn viên
+actually: thực ra
+adaptation: sự thích nghi
+add: thêm vào
+addition: thêm vào
+administrated: quản lý
+administration: sự quản trị
+administrator: người quản lý
+admit: thừa nhận
+adult: trưởng thành
+advancement: thăng tiến
+advantage: lợi thế
+advertisement: quảng cáo
+advertising: quảng cáo
+advice: lời khuyên
+affordable: giá cả phải chăng
+afforestations: trồng rừng
+after: sau đó
+afternoon: buổi chiều
+against: chống lại
+age: tuổi tác
+aggravation: làm tăng thêm
+allowance: trợ cấp
+alone: một mình, cô đơn
+along: dọc theo
+alow: ôi chao
+already: đã sẵn sàng
+although: mặc dù
+always: luôn luôn
+ammunition: đạn dược
+among: ở giữa
+amount: số tiền
+analytics: phân tích
+and: và
+angel: thiên thần
+angry: tức giận
+anniversary: kỉ niệm
+announcement: sự thông báo
+anonymous: vô danh
+another: khác
+anticompetitive: phản cạnh tranh
+any: bất kì
+anything: bất cứ điều gì
+apartment: căn hộ, chung cư
+apocalypticism: thuyết khải huyền
+appear: xuất hiện
+appearance: xuất hiện
+appendicular: hình thấu kính
+apple: quả táo
+appreciative: đánh giá cao
+apprenticeships: học việc
+approach: tiếp cận
+appropriation: chiếm đoạt
+aquaculture: nuôi trồng thủy sản
+architecture: ngành kiến trúc
+area: khu vực, địa điểm
+around: xung quanh
+article: bài báo
+articulation: sự khớp nối
+as: như
+ask: hỏi
+assemblyman: người trong hội đồng
+assessment: thẩm định, lượng định, đánh giá
+assistance: hỗ trợ
+assistant: phụ tá
+associationists: những người theo chủ nghĩa
+assumed: giả định
+at: tại
+atherosclerosis: xơ vữa động mạch
+attractive: hấp dẫn
+attribution: sự biểu hiện, sự tượng trưng
+aunt: cô
+author: tác giả
+authoritarian: độc tài
+auto: tự động
+available: có sẵn
+average: trung bình cộng
+back: trở lại
+backcountries: đất nước
+backcountry: hậu phương
+background: lý lịch
+backstage: hậu trường
+backstretches: duỗi lưng
+bacteriologic: vi khuẩn học
+bad: tệ
+balance: cân bằng
+banking: tin cậy, ngân hàng
+bar: quán bar
+barometrically: đo khí áp
+baseball: quả bóng rổ
+basic: cơ bản
+basketball: bóng rổ
+bastardization: sự khốn nạn
+bathroom: phòng tắm
+battleground: chiến trường
+be: là
+beautiful: xinh đẹp
+became: trở thành
+because: bởi vì
+become: trở nên, trở thành
+becoming: trở thành
+bed: giường ngủ
+bee: con ong
+beer: bia
+before: trước đây
+began: bắt đầu
+beginning: bắt đầu
+behavior: hành vi
+behind: phía sau
+believe: tin tưởng
+beneficence: tính hay làm phúc
+beneficial: có lợi
+beneficiation: người thụ hưởng
+benefit: lợi ích
+besides: ngoài ra
+best: tốt nhất
+better: tốt hơn
+between: giữa, khoảng cách
+bidirectionally: hai chiều
+big: lớn
+bill: hóa đơn
+billboard: bảng quảng cáo
+billion: tỷ
+biographical: tiểu sử
+biological: sinh học
+bird: con chim
+birthday: sinh nhật
+black: màu đen
+blackboard: tấm bảng đen
+blamelessnesses: vô tội vạ
+blanketflowers: hoa chăn
+blockbuster: bom tấn
+blood: máu
+bloodlessnesses: không có máu
+bloodstream: dòng máu
+bloodthirsty: khát máu
+blue: màu xanh
+board: bảng
+boat: thuyền
+book: cuốn sách, đặt phòng
+bootlessnesses: không có ủng
+boringnesses: sự nhàm chán
+bouleversement: đại lộ
+box: hộp
+brainstormings: động não
+brainwashing: tẩy não
+breadwinner: trụ cột gia đình
+breakfast: bữa ăn sáng
+breaking: phá vỡ
+breakthrough: đột phá
+breathabilities: thở
+breathless: hết hơi
+bridge: cây cầu
+briefcase: vật đựng hồ sơ
+brightnesses: độ sáng
+brilliant: xuất sắc
+bring: mang
+brinkmanship: nghề nghiệp
+broadcast: phát sóng
+brotherlinesses: tình anh em
+brought: mang lại, mang đến
+budget: ngân sách
+building: xây dựng
+built: xây dựng
+business: kinh doanh
+businesslike: kinh doanh
+businessman: doanh nhân
+businesspersons: doanh nhân
+businesswoman: nữ doanh nhân
+busy: bận
+but: nhưng
+buy: mua
+by: bởi
+call: gọi
+calm: điềm tĩnh
+campaign: chiến dịch
+can: có thể
+candidate: ứng cử viên
+capacity: sức chứa
+capitalizations: viết hoa
+car: xe ô tô
+card: thẻ
+care: quan tâm
+carry: mang
+case: trường hợp, tình huống, thực tế
+cash: tiền mặt 
+catch: nắm lấy, bắt lấy
+cause: nguyên nhân, nguyên do
+central: trung tâm
+century: thế kỷ
+certain: chắc chắn
+certainly: chắc chắn
+certificate: chứng chỉ
+certification: chứng nhận
+chain: chuỗi
+chairman: chủ tịch
+challenge: thử thách
+challenging: thử thách
+chance: cơ hội
+change: thay đổi
+character: tính cách
+characteristic: đặc tính
+charge: sạc điện, phí
+check: kiểm tra
+chief: lãnh tụ, trưởng
+child: đứa trẻ
+children: trẻ em
+choice: lựa chọn
+city: thành phố
+class: lớp học
+classification: phân loại
+classroom: phòng học
+clean: sạch sẽ, rõ ràng
+clear: trong sáng, khoảng trống
+client: khách hàng
+close: đóng
+coast: bờ biển
+collection: bộ sưu tập
+college: trường đại học
+combination: sự kết hợp
+come: đến
+comfortable: sự thoải mái
+coming: đang đến
+commercial: thương mạii
+commission: ủy ban
+commitment: lời cam kết
+committee: ủy ban
+common: chung
+communicate: giao tiếp
+communication: giao tiếp
+community: cộng đồng
+company: công ty
+compensation: đền bù
+competition: Sự cạnh tranh
+complementarity: sự bổ sung
+complementary: bổ túc
+complete: hoàn thành
+completion: hoàn thành 
+complex: phức tạp
+component: thành phần
+comprehensible: có thể hiểu được
+comprehensive: sự nhận thức
+computer: máy tính
+concentrate: tập trung
+concerned: lo âu 
+concerning: liên quan
+conclusion: phần kết luận
+condition: tình trạng
+conference: hội nghị
+confidence: tự tin
+confident: tự tin
+confrontation: đối đầu
+congregational: hội đoàn
+connected: đã kết nối 
+connection: sự kết nối
+conservationist: nhà bảo tồn
+conservative: thận trọng
+consider: xem xét
+considerable: đáng kể
+consideration: sự xem xét
+considered: xem xét
+considering: đang cân nhắc, xem xét
+consistent: thích hợp
+consolidation: sự bền vững, sự kiên cố
+constitution: tổ chức
+constitutional: theo hiến pháp
+construction: xây dựng
+constructionist: nhà xây dựng
+consumer: khách hàng
+consumption: tiêu dùng
+contact: liên lạc, liên hệ
+containerboard: thùng chứa
+contamination: ô nhiễm
+contemporaneous: cùng thời
+continuation: tiếp tục
+continue: tiếp tục
+contract: hợp đồng
+contribution: sự đóng góp
+control: kiểm soát
+conventional: thông thường
+conversation: cuộc hội thoại
+cook: nấu
+corporate: đoàn thể
+corporation: sự hợp tác
+cost: phí
+could: có thể 
+council: hội đồng
+counterbalance: đối trọng
+countermeasure: biện pháp đối phó
+country: thành phố
+countrywide: ngoại ô
+course: khóa học
+court: sân nhà, chỗ ở
+cover: che đậy, bao phủ 
+create: tạo nên
+credit: tín dụng
+critical: sự phê bình
+cry: khóc
+current: hiện hành
+customer: khách hàng
+cut: cắt
+daily: hàng ngày
+dairy: sản phẩm bơ sữa
+damn: chỉ trích
+dance: nhảy
+danger: nguy hiểm
+dangerous: nguy hiểm
+date: ngày
+daughter: con gái
+day: ngày
+debut: ra mắt
+decent: hợp lệ
+decided: quyết định
+decision: phán quyết
+declaration: tờ khai
+decomposition: phân hủy
+decompression: giảm bớt sức ép
+deconstruction: giải cấu trúc
+decorative: trang trí
+decree: nghị định
+deep: sâu
+defendant: bị cáo
+defense: phòng thủ
+deficiency: sự thiếu hụt
+definition: định nghĩa
+definitive: dứt khoát
+delete: xóa
+deliriousnesses: sự say mê
+delivery: vận chuyển
+demand: nhu cầu
+demanding: yêu cầu
+demographically: nhân khẩu học
+demographics: nhân khẩu học
+demonstrate: chứng minh
+demonstration: trình diễn, thuyết minh 
+demonstrative: biểu tình
+demystification: sự phá vỡ
+department: phòng ban
+departmentalize: phòng ban, bộ phận hóa
+departure: khởi hành
+dependent: phụ thuộc
+deposit: đặt cọc
+depot: kho chứa
+depreciation: khấu hao
+depression: phiền muộn
+depth: độ sâu
+describe: diễn tả
+description: sự miêu tả
+desert: sa mạc
+desertification: sa mạc hóa, ngày hạn hán
+designing: thiết kế
+desk: bàn 
+despite: bất chấp, khinh rẻ
+destination: nơi đến
+destruction: sự phá hủy
+destructivities: sự phá hủy
+detailed: chi tiết, bày tỏ
+detect: phát hiện
+detection: phát hiện
+detective: thám tử
+determination: sự quyết tâm, sự cương quyết
+development: phát triển
+devil: ác quỷ
+diamond: kim cương
+dictionary: từ điển
+difference: sự khác biệt
+different: khác nhau
+differentiable: có thể phân biệt, chức năng phân biệt
+differential: khác biệt
+differentiate: phân biệt
+differentiation: sự khác biệt
+difficulty: khó khăn
+dinner: bữa tối
+directly: trực tiếp
+director: giám đốc
+directory: danh mục
+disadvantage: bất lợi
+disadvantaged: thiệt thòi
+disadvantageous: bẩt lợi, làm thiệt hại, làm tổn thất
+disagreement: bất đồng ý kiến
+disappear: biến mất, không còn
+disappointing: thất vọng, không làm thỏa mãn
+disappointment: thất vọng, nản lòng
+disciplinary: kỷ luật
+discontinuation: ngừng, gián đoạn
+discontinuity: sự gián đoạn
+discontinuous: không liên tục
+discouragement: chán nản, thất vọng
+discretionary: tùy ý
+discriminate: phân biệt
+discrimination: phân biệt đối xử
+discriminatory: phân biệt đối xử, sự nhận thức
+discuss: bàn luận
+discussion: thảo luận
+disease: bệnh
+disinclination: không ưa, chán ghét
+disintegration: sự tan rã
+disinterested: vô tư
+dispassionate: không hài lòng
+displacement: dịch chuyển, sự dời chỗ
+display: trưng bày
+disposition: bố trí
+disproportional: không cân xứng
+dissatisfaction: không hài lòng, không bằng lòng
+dissatisfactory: không đạt yêu cầu
+dissatisfied: không hài lòng
+disseminated: phổ biến
+distinction: phân biệt
+distinctive: khác biệt
+distinguish: phân biệt, đặc biệt
+distinguished: phân biệt 
+distribution: phân phối
+distributor: nhà phân phối
+district: huyện, miền, khu vực
+division: phân công
+divorce: ly hôn
+doctor: bác sĩ
+document: tài liệu
+documentary: phim tài liệu
+documentation: tài liệu
+dog: chó
+domestic: quốc nội
+donate: quyên góp, tặng
+door: cửa sổ
+doubt: nghi ngờ
+dragon: con rồng 
+draw: vẽ tranh
+drawing: sức lôi cuốn, hấp dẫn
+dream: giấc mơ
+dress: trang phục
+drill: máy khoan
+driving: điều khiển
+drug: thuốc
+duck: con vịt
+each: mỗi
+eagle: đại bàng
+early: sớm
+earnings: thu nhập
+earth: trái đất
+easily: dễ dàng
+eastern: phía Đông
+easy: dễ dàng
+eat: ăn uống
+ecclesiologist: nhà giáo hội học
+ecocatastrophe: thảm họa
+econometrics: kinh tế lượng
+economic: kinh tế
+economics: kinh tế học
+edition: sự xuất bản, phiên bản
+education: giáo dục
+educational: phương pháp giáo dục
+educationalists: các nhà giáo dục học
+effect: ảnh hưởng 
+effective: có hiệu lực
+effectively: hiệu quả
+effectivenesses: hiệu quả
+efficient: có hiệu quả
+effort: cố gắng
+egalitarian: bình đẳng
+eight: số tám
+either: hoặc
+electabilities: điện năng
+electivenesses: quyền lựa chọn
+electrochemical: điện hóa
+electrodeposits: đồ điện tử
+electrodynamics: động điện học
+electrofishing: đánh bóng điện
+electroforming: điện hóa
+electrolysis: điện phân, điện từ
+electrolytic: điện phân
+electromagnetic: điện từ
+electronically: điện tử 
+electrostatic: tĩnh điện
+element: thành phần
+embarrassment: sự lúng túng
+embarrassments: sự bối rối, lúng túng
+embassy: đại sứ quán
+emergency: trường hợp khẩn cấp
+emotional: đa cảm
+emotionalism: cảm động
+emotionalistic: tình cảm
+emotionalizing: tạo cảm xúc
+emotionless: vô cảm
+emplacement: sự thay thế
+employment: nơi làm việc, công việc
+enable: kích hoạt
+encouragement: sự khuyến khích 
+encouraging: khích lệ, khuyến khích
+encroachment: sự lấn chiếm
+end: kết thúc
+endless: mãi mãi
+endocrinology: khoa nội tiết
+endorsement: chứng thực
+energy: năng lượng
+engagement: hôn ước, lễ đính hôn
+engine: động cơ
+engineer: kỹ sư
+engineering: kỹ thuật
+enjoy: thích thú
+enlightenment: làm rõ ràng, giác ngộ
+enormous: to lớn, khổng lồ
+enough: đủ 
+enrollment: ghi danh
+ensure: đảm bảo 
+enterprise: doanh nghiệp
+entertainment: môi trường
+enthusiasm: hăng hái
+enthusiastic: tận tâm
+entire: toàn bộ
+environment: môi trường
+environmental: thuộc về môi trường
+equilibration: thăng bằng
+equilibristic: cân bằng
+equity: công bằng
+equivocation: không rõ ràng
+especially: đặc biệt
+establish: thành lập
+establishment: thành lập
+estate: động sản
+estimate: ước tính, lượng giá
+ethnocentrism: chủ nghĩa dân tộc
+ethnomusicology: dân tộc học
+evaluate: giá trị
+event: sự kiện
+eventually: cuối cùng, sau cùng
+every: mỗi
+everybody: mọi người
+everyday: mỗi ngày
+everything: mọi thứ
+everywhere: khắp nơi
+evidence: chứng cớ
+evident: hiển nhiên
+evolution: sự phát triển
+exactly: chính xác
+exam: ví dụ
+examination: kiểm tra
+example: ví dụ
+excellence: xuất sắc
+excellent: xuất sắc
+except: ngoại trừ
+exception: ngoại lệ
+excessive: quá đáng
+exchange: trao đổi
+excited: bị kích thích
+excitement: sự phấn khích
+exclamatory: cảm thán, thán từ
+exclusion: loại trừ 
+excommunication: sa thải, sự khai trừ
+excrescence: sự xuất hiện
+excruciating: đau đớn, dữ dội
+executive: điều hành
+exemplification: sự tôn vinh
+exercise: luyện tập, thực hành
+exhibit: vật trưng bày, triển lãm
+exhibition: buổi triển lãm
+existence: sự tồn tại
+exit: lối thoát
+expansion: sự bành trướng
+expect: chờ đợi
+expectation: sự mong đợi
+expeditionary: viễn chinh 
+expense: chi phí
+expensivenesses: sự đắt tiền
+experienced: kinh nghiệm
+experiential: dựa theo kinh nghiệm
+experiment: thí nghiệm
+expertise: chuyên môn
+explain: giải thích
+explanatory: giải thích
+exploitation: khai thác, sự lợi dụng
+exploration: sự khám phá, thăm dò
+explosion: vụ nổ
+exponential: số mũ
+exposure: sự phơi nhiễm, sự gian xảo
+expression: biểu hiện, cách biểu lộ
+expressionism: biểu thị
+expressivity: biểu cảm
+extensive: sâu rộng, hiểu biết rộng
+extent: mức độ
+exterminator: kẻ ám sát 
+extracellular: khác thường
+extracurricular: ngoại khóa
+extragalactic: ngoài thiên hà
+extraordinary: lạ lùng, phi thường
+face: mặt
+facilitate: tạo điều kiện
+facilitation: tạo điều kiện, dễ dàng
+facility: cơ sở
+fact: trường hợp, thực tế
+faithlessnesses: những người không trung thành
+familiar: quen biết
+familiarity: quen thuộc, tính thân mật
+familiarization: làm quen, thói quen
+family: gia đình
+fanaticalnesses: sự cuồng tín
+fantastications: những điều kì diệu
+fascinating: hấp dẫn, quyến rũ
+fascination: mê hoặc
+fashionable: hợp thời trang
+fashionableness: hợp thời trang
+father: bố
+favorablenesses: những điều thuận lợi
+featherbeddings: chăn lông vũ
+featherstitched: lông vũ
+feature: đặc tính
+federal: liên bang
+federalizations: liên bang
+federation: liên kết
+fee: phí
+feedback: phản hồi
+feeling: cảm giác
+fellowship: tình bằng hữu
+fenestration: sự tổng hợp
+ferociousnesses: hung dữ
+ferroelectric: chất sắt điện
+ferromagnesian: sắt từ
+festival: lễ hội
+fibrillation: rung tim
+field: cách đồng
+fight: đánh nhau
+finance: tài chính
+financial: tài chính
+find: tìm
+finding: phát hiện
+fingerprint: vân tay
+fingerprintings: dấu vân tay
+firewall: tường lửa
+first: thứ nhất, đầu tiên
+fish: con cá
+fixed: cố định
+flamethrower: súng phun lửa
+floating: nổi, nổi trên mặt nước
+floor: sàn nhà
+fluorescence: tính huỳnh quang
+fly: bay
+focus: tiêu điểm
+following: theo dõi
+food: thức ăn
+force: lưc lượng 
+forecast: dự báo
+foreign: ngoại quốc
+foreknowledge: tiên tri
+forgiveness: sự tha thứ
+forgotten: bị lãng quên
+formation: sự hình thành
+formidable: ghê gớm, dữ dội
+forthcoming: sắp tới, sắp đến
+fortification: vững chắc, sự củng cố
+fortunate: may mắn
+forward: hiển nhiên, ở đằng trước
+found: tìm ra
+foundation: nền tảng, thiết lập
+fountainhead: nguồn gốc 
+four: số bốn
+fox: con cáo
+fraction: phân số
+fragmentation: phân mảnh, mảnh vỡ
+framework: khuôn khổ
+franchise: chuỗi
+free: miễn phí
+freelance: nghề tự do
+freestanding: hạ cánh tự do
+frequency: tần số
+frequently: thường xuyên
+frictionlessly: không ma sát
+friend: bạn
+friendlinesses: thân thiện 
+friendly: thân thiện
+friendship: tình bạn
+from: từ
+front: trước mặt
+frontiersman: biên phòng
+fructification: kết trái
+frustration: thất vọng, phản kháng
+fun: thú vị
+function: chức năng
+functional: chức năng
+functionality: chức năng
+fundamental: cơ bản
+fundamentalism: chủ nghĩa cơ bản
+fundamentalist: người theo chủ nghĩa chính thống
+fundraising: gây quỹ
+furniture: đồ đạc
+further: thêm nữa
+furthermore: hơn nữa
+future: tương lai
+gain: thu được
+gallbladder: túi mật
+gallery: bộ sưu tập
+game: trò chơi
+garden: vườn
+garment: quần áo
+garrulousnesses: sự tuyệt vời
+gastrocnemius: dạ dày
+gastroenteritis: viêm dạ dày ruột
+gastronomic: kinh tế học
+gastronomically: nói về mặt kinh tế học
+gastrulation: đau bụng
+gate: cổng
+gateway: cổng vào
+gather: tụ họp
+gathering: thu nhập
+gender: giới tính
+gene: gia hệ
+general: chung
+generalization: sự khái quát
+generalized: tổng quát
+generally: nói chung là
+generate: tạo ra
+generation: thế hệ
+generator: máy phát điện
+generosity: hào phóng, rộng lượng
+generous: hào phóng
+genetic: di truyền 
+genius: thiên tài
+genomics: bộ gen
+gentle: dịu dàng
+gentleman: quý ông, quý phái
+genuine: chính hãng
+geochemistry: địa hóa học
+geochronologies: địa lý
+geochronology: địa lý học
+geographic: địa lý
+geography: môn địa lý
+geometric: hình học
+geometry: hình học
+geomorphology: địa mạo
+geosynchronous: không đồng bộ địa lý
+geriatrician: bác sĩ nhi khoa
+gerontology: ngành nghiên cứu tuổi già
+gingerbread: bánh gừng
+girl: cô gái
+girlfriend: bạn gái
+give: tặng, đưa
+glamorous: hào nhoáng
+glass: cốc thủy tinh
+global: toàn cầu
+goal: mục tiêu, bàn thắng
+goalkeeper: thủ môn
+goaltending: làm mục tiêu, săn bàn
+gold: vàng
+golden: vàng
+goldsmith: thợ kim hoàn
+good: tốt
+goodbye: tạm biệt 
+goodness: nhân hậu
+goodwill: thiện chí 
+government: chính phủ
+governmentalism: chủ nghĩa chính quyền
+governor: thống đốc
+governorship: quyền thống đốc
+grade: cấp
+graduation: tốt nghiệp
+grammatical: ngữ pháp
+granddaughter: cháu gái
+grandfather: ông nội/ông ngoại
+grandmother: bà nội/bà ngoại
+grandparent: ông bà
+grape: nho
+graphic: đồ họa
+graphics: đồ họa
+grateful: tri ân
+gratification: sự hài lòng, sự vừa ý
+gratitude: lòng biết ơn
+gravimetric: trọng lực, trọng lượng
+gravitationally: hấp dẫn
+gravity: trọng lực
+gray: màu xám
+great: tuyệt
+greater: lớn hơn
+green: màu xanh
+greenfield: cánh đồng xanh
+greeting: lời chào
+grid: lưới
+ground: đất
+groundbreaker: tàu ngầm
+groundbreaking: động thổ
+groundskeeper: người trông coi
+groundwork: cơ sở
+group: nhóm
+grouping: phân nhóm
+grow: lớn lên
+grown: tăng
+growth: sự phát triển
+guarantee: bảo hành
+guardian: người giám hộ
+gubernatorial: thống đốc
+guerrilla: du kích
+guidance: hướng dẫn
+guilty: tội lỗi
+gynecology: phụ khoa
+habitabilities: thói quen
+had: có
+hairdresser: thợ cắt tóc
+hallucination: ảo giác
+hand: bàn tay
+handicapped: tật nguyền, bất lợi
+handkerchief: khăn tay
+handle: xử lý
+handling: sự điều khiển
+handwriting: chữ viết tay
+happen: xảy ra
+happening: đang xảy ra, biến cố, tai họa
+happy: vui vẻ
+hardly: khó khăn
+hardware: phần cứng
+harmonious: hài hòa
+hat: cái mũ
+have: có
+headquartering: trụ sở chính
+headquarters: trụ sở chính
+health: sức khỏe
+healthy: khỏe mạnh, lành mạnh
+heart: trái tim
+heartbreaker: người làm tan nát trái tim
+heartbreaking: đau lòng
+heaven: thiên đường
+heavy: nặng
+heavyweight: hạng nặng
+helicopter: máy bay trực thăng
+help: giúp đỡ
+helping: giúp đỡ
+hematology: huyết học
+hemisphere: bán cầu
+hence: vì thế
+her: của cô ấy
+here: ở đây, tại đây
+heritage: gia tài
+herself: bản thân cô ấy
+hesitation: do dự
+heterogeneous: không đồng nhất
+hierarchy: hệ thống cấp bậc
+high: cao
+highland: cao nguyên
+highlight: điểm nổi bật
+himself: bản thân anh ấy
+his: của anh ấy
+histochemistry: hóa học
+historian: nhà sử thi
+historic: lịch sử
+historical: lịch sử
+historiographer: nhà sử học, sử ký
+historiography: lịch sử học
+history: lịch sử
+hit: đánh
+holding: giữ, chiếm hữu
+holiday: kỳ nghỉ
+hollow: rỗng
+home: nhà
+homeless: vô gia cư
+homogeneous: đồng nhất 
+homosexual: đồng tính luyến ái
+homosexuality: đồng tình luyến ái
+honeymoon: tuần trăng mật
+honorable: danh giá
+honourable: danh giá, vẻ vang
+hope: hi vọng
+hopefully: hi vọng
+horizontal: ngang, nằm ngang
+horrible: kinh khủng, ghê gớm, khiếp sợ
+horror: kinh dị, ghê rợn
+horse: con ngựa
+hospital: bệnh viện
+hospitality: lòng hiếu khách
+hospitalization: nhập viện
+hostility: thù địch
+hotel: nhà nghỉ
+hour: giờ
+house: ngôi nhà
+housecleaning: dọn nhà
+household: hộ gia đình
+housekeeper: người quản gia
+housekeeping: dọn phòng
+housing: nhà ở
+how: thế nào
+however: tuy nhiên, thế nhưng
+huge: khổng lồ
+human: nhân loại
+humanitarian: nhân đạo
+humanitarianism: chủ nghĩa nhân đạo
+humanity: nhân loại
+humiliation: sự sỉ nhục
+hundred: trăm
+hundredweight: trăm cân
+hungry: đói bụng
+hurricane: bão
+hurry: vội
+husband: chồng
+hydroelectric: thủy điện
+hyperactivities: tăng động
+hyperconscious: siêu ý thức
+hypermobilities: siêu linh hoạt
+hypersensitive: quá mẫn cảm
+hypertension: tăng huyết áp 
+hypertensive: tăng huyết áp
+hypoallergenic: không gây dị ứng
+hypothesis: sự giả thuyết
+hypothetical: giả thuyết
+hysterical: loạn trí
+icon: biểu tượng
+idea: ý tưởng
+ideal: lý tưởng
+identification: nhận biết
+identify: nhận định
+idiom: cách diễn đạt
+ignore: làm lơ
+illustration: hình minh họa
+image: hình ảnh
+imagination: trí tưởng tượng
+imagine: tưởng tượng
+immediate: ngay tức khắc
+immediately: tức thì
+impact: sự va chạm
+implement: triển khai thực hiện
+imply: bao hàm, ngụ ý
+import: nhập khẩu
+importance: tầm quan trọng
+important: quan trọng
+impossible: không thể nào
+impressionable: không thể ấn tượng
+impressionistic: nghệ sĩ ấn tượng
+impressive: ấn tượng
+improve: tiến bộ, cải thiện 
+improvement: sự tiến bộ
+inappropriate: không thích hợp
+include: bao gồm
+included: bao gồm
+income: thu nhập = earning
+incompatibility: không tương thích
+incomprehension: sự hiểu biết
+inconsequential: không đáng kể
+inconsiderable: không thể coi thường
+inconsistent: không nhất quán
+inconvenience: bất lợi, không thuận tiện
+incorporate: kết hợp
+incorporated: kết hợp
+incorporating: kết hợp
+increase: tăng
+indeed: thật
+indemnification: sự bồi thường
+independence: sự độc lập
+independent: độc lập
+indestructible: không thể phá hủy
+index: mục lục
+indicate: nội bộ
+indication: sự chỉ dẫn
+indiscriminate: bừa bãi
+indispensable: cần thiết
+individual: cá nhân
+industrial: công nghiệp
+infection: nhiễm trùng
+inflammatory: gây viêm
+inflation: lạm phát
+influence: ảnh hưởng
+information: thông tin
+informed: thông báo
+infrastructure: cơ sở hạ tầng
+initial: ban đầu
+initiative: sáng kiến
+injury: thương tật
+inner: bên trong
+innovation: sự đổi mới
+innovative: sáng tạo
+input: đầu vào
+inside: phía trong
+insight: sáng suốt
+insignificance: không đáng kể
+insignificant: tầm thường
+installation: cài đặt
+instance: phiên bản
+instant: tức thì
+instantaneous: tức thì
+instead: thay vì
+institute: học viện
+institution: tổ chức
+institutional: thể chế
+instruction: chỉ dẫn
+instrument: dụng cụ
+instrumental: nhạc cụ
+instrumentalist: nhạc cụ, nhạc công
+instrumentality: công cụ
+insufficient: không đủ
+insurance: bảo hiểm
+insurmountable: không thể vượt qua
+integration: hội nhập
+intellectual: trí thức
+intellectualism: chủ nghĩa trí tuệI
+intelligence: sự thông minh
+intelligent: thông minh
+intelligentsia: người thông minh, người khôn ngoan
+intend: ý định, dự định
+intended: dự định
+intense: mãnh liệt
+intention: chú ý
+inter: hấp dẫn
+interaction: sự tương tác
+interactive: tương tác
+interchangeable: có thể hoán đổi cho nhau
+intercollegiate: liên trường
+interdependent: liên kết với nhau, phụ thuộc vào nhau
+interested: thú vị
+interesting: thú vị
+interface: giao diện
+interference: giao thoa
+interior: nội địa
+intermediate: trung gian
+internal: nội bộ
+international: quốc tế
+interpersonal: giữa các cá nhân
+interplanetary: liên hành tinh
+interpretation: diễn dịch
+interpretative: phiên dịch
+interscholastic: xen kẽ
+interview: phỏng vấn
+introduce: giới thiệu
+introduction: giới thiệu
+introductory: giới thiệu 
+inventory: hàng tồn kho
+invest: đầu tư
+investigate: điều tra
+investigation: cuộc điều tra
+investigative: điều tra
+investment: sự đầu tư 
+invite: mời
+involved: bị liên lụy
+irony: trớ trêu
+irreconcilable: không thể hòa giải
+irresponsible: vô trách nhiệm
+island: đảo
+issue: vấn đề
+item: mục
+jacket: áo khoác
+jactitation: phô trương
+jailhouse: nhà tù
+jakes: trò đùa
+jalapeno: ớt
+japan: Nhật Bản
+jaundice: bệnh vàng da, sự ghen tức
+jealous: ghen tuông
+jellyfish: con sứa
+jeopardize: hủy hoại, liều mạng
+jeopardy: nguy cơ, cảnh hiểm nghèo
+jewellery: đồ kim hoàn
+job: nghề nghiệp
+joint: chung, khớp
+jointly: chung, cùng nhau
+jollifications: điều kiện
+jolly: vui vẻ
+journal: tạp chí
+journalism: báo chí
+journalist: nhà báo, ký giả
+journalistic: báo chí
+journalizes: viết nhật ký
+journey: hành trình
+journeyman: người hành trình
+journeywork: hành trình
+joy: vui sướng
+joyfulnesses: niềm vui
+joystick: cần điều khiển
+jubilant: hâm hoan, mừng rỡ
+jubilee: lễ kỷ niệm
+judge: thẩm phán
+judgements: bản án, sự xét xử
+judgmental: phán xét
+judicatories: giám khảo
+judiciary: cơ quan tư pháp
+judicious: khôn ngoan
+judiciousnesses: sự phán xét
+juice: nước ép
+jump: nhảy
+junction: giao lộ, chờ gặp nhau
+juncture: thời cơ
+jungle: rừng nhiệt đới, mớ hỗn độn
+junior: trẻ em
+juniper: cây bách xù
+juridical: pháp lý
+jurisprudence: khoa luật pháp, luật học
+jurisprudential: luật học
+just: chỉ
+justice: sự công bằng
+justiciability: tính thẩm định
+justiciable: bị thuộc quyền xét xử
+justifiability: tính hợp lý, tính chất hợp lý
+justifiable: có thể biện minh được
+justification: sự biện hộ
+justifications: biện minh
+justificative: để bào chữa, để biện hộ
+justificatory: biện minh
+justify: bào chữa, biện hộ
+juvenescence: thời kỳ thanh thiếu niên
+juvenilities: vị thành niên
+juxtapose: để cạnh nhau
+kaleidoscopes: kính vạn hoa
+kangaroo: con chuột túi
+karma: nghiệp
+keep: giữ, nắm
+keeper: người bảo quản, thủ môn
+keeping: duy trì
+keepsake: vật kỷ niệm
+keratitis: viêm giác mạc
+kerosene: dầu hỏa
+ketchup: sốt cà chua
+kettle: ấm đun nước, việc rắc rối
+key: chìa khóa
+keynote: điểm chủ yếu, bài phát biểu chính thức
+keypad: bàn phím
+keystroke: tổ hợp phím
+keyword: từ khóa
+kickboard: ván trượt chân
+kickboxing: kick-boxing
+kickoff: bắt đầu
+kid: đứa trẻ
+kiddie: đứa trẻ
+kidnap: bắt cóc, bắt giữ
+killed: làm ngã, bị giết
+killing: giết, sát trùng
+kind: tốt bụng, tử tế
+kindergarten: mẫu giáo 
+kindergarteners: trường mẫu giáo, trẻ mẫu giáo
+kindhearted: tốt bụng
+kindheartedness: lòng tốt
+kindling: kích thích
+kindly: vui lòng, lòng nghĩa hiệp, có lòng tốt
+kindness: lòng tốt, tử tế
+kindred: giống nhau, tương trợ 
+kinematically: động học
+kinematics: động học
+kinetics: động học
+king: vua
+kingcraft: vua lừa đảo
+kingdom: vương quốc
+kingfisher: bói cá, chim bói cá
+kingship: vương quyền, vương vị
+kiss: nụ hôn
+kitchen: bếp
+kitchenette: bếp nhỏ
+kitchenware: đồ bếp, dụng cụ làm bếp
+kitty: mèo con, mèo nhỏ
+kleptomania: tật ăn cắp
+knack: khéo léo, sự khéo tay
+knickerbockers: đồ đan lát
+knickers: quần đùi
+knickknack: đồ đạc, bàn ghế
+knife: con dao
+knight: hiệp sỹ, người đi lang thang
+knighthood: hiệp sĩ, giai cấp
+knightlinesses: hiệp sĩ
+knitting: sự dính liền, sự kết hợp
+knitwearh: hàng dệt kim
+knives: con dao, dao găm
+knock: gõ cửa, đụng chạm, đụng phải
+knock-down: giá thấp nhất, có thể tháo ra được
+knockout: hạ gục
+knowing: biết, thông minh, trang nhã
+knowledge: hiểu biết, học thức
+knowledgeable: có kiến thức, thông minh, hiểu rõ
+known: đã biết, nhận ra
+knucklehead: đốt ngón tay 
+kremlinologists: các nhà nghiên cứu về điện
+laboratory: phòng thí nghiệm
+laboriousnesses: sự cần cù
+labour: nhân công, lao động
+labyrinthine: mê cung
+lackadaisical: thiếu kinh nghiệm
+lamentable: than thở, đáng thương, tội nghiệp
+landing: đổ bộ, lên bờ
+landlessnesses: không có đất 
+landlocked: ở giữa đất liền
+landlord: chủ nhà, chủ quán
+landmark: phong cảnh
+landscape: phong cảnh 
+language: ngôn ngữ
+large: lớn, rộng rãi
+laryngoscope: soi thanh quản
+lasciviousness: sự dẻo dai
+last: cuối cùng
+lasting: bền vững, sự trường cửu
+later: sau đó
+lateralization: quá trình hóa đá
+latest: muộn nhất
+latitudinarian: người latinh
+latter: sau này, chỉ vật sau cùng
+laugh: cười, cười rộ lên
+laughingstock: trò cười
+laughter: tiếng cười, cười ầm lên
+launch: ra mắt
+law: luật sư
+leader: thủ lĩnh, người chỉ huy
+leadership: khả năng lãnh đạo
+leading: sự chỉ huy, dẫn đầu
+league: liên đoàn, liên minh
+learn: học tập
+learning: học tập
+lease: cho thuê
+leasehold: nhà cho mướn, cho thuê
+leasing: cho thuê, giao kết
+least: ít nhất, nhỏ nhất
+leather: da
+leave: rời đi 
+lecture: bài học, cuộc diễn thuyết
+lecturer: người giảng dạy, giảng viên
+leg: chân
+legal: hợp pháp, thuộc về pháp luật
+legendary: huyền thoại
+legislation: pháp luật, sự lập luận
+legislative: lập pháp, quyền lập pháp
+legislature: cơ quan lập pháp
+legitimate: hợp pháp, đích tôn
+legitimatizing: hợp pháp hóa
+legitimizations: luật pháp
+legitimize: hợp pháp hóa
+leisure: rảnh rỗi, giải trí
+length: chiều dài
+lengthy: dài dòng
+letter: chữ cái
+letterhead: bìa thư
+level: trình độ, cấp bậc
+leverage: tận dụng
+lexicographer: nhà nghiên cứu từ vựn học
+lexicography: từ điển học 
+liability: trách nhiệm pháp lý
+liberalism: chủ nghĩa tự do
+liberalization: tự do hóa
+liberalize: tự do hóa
+liberation: sự tự do, phóng thích
+libertarian: người theo chủ nghĩa tự do
+library: thư viện
+license: giấy phép, sự cho phép
+lie: nói dối 
+lieutenant: trung úy
+lifelikenesses: sống động như thật
+lifestyle: cách sống
+lifetime: cả đời
+light: ánh sáng
+lighthearted: nhẹ dạ cả tin
+lighthouse: ngọn hải đăng
+lighting: thắp sáng
+lightning: tia chớp
+lightweight: nhẹ cân
+lignifications: giải nghĩa
+like: thích
+likelihood: khả năng xảy ra
+likely: có khả năng, có lẽ thật
+likewise: tương tự, hơn nữa
+limestone: đá vôi
+limit: giới hạn
+limitation: sự hạn chế, giới hạn
+limited: giới hạn
+limiting: hạn chế, giới hạn
+linerboard: tấm lót
+linguistic: ngôn ngữ, thuộc về ngôn ngữ học
+linguistics: ngôn ngữ học
+linked: đã liên kết
+links: liên kết
+liquefaction: hóa lỏng
+liquid: chất lỏng, êm ái
+liquidity: tính trong suốt
+list: danh sách
+listenership: thính giả
+listing: sự lắng nghe, danh sách
+literacy: trình độ học vấn
+literally: theo nghĩa đen
+literary: văn học
+literature: văn chương
+lithologically: về mặt ngữ văn
+little: ít
+liver: gan
+living: cuộc sống
+loan: khoản vay, tiền vay mượn
+lobby: phòng chờ, sảnh đợi
+local: địa phương, bản địa
+localized: chậm chân tại chỗ, bản địa
+location: vị trí
+locomotion: sự chuyển động, sự vận động 
+locomotive: đi du lịch
+logical: hợp lý
+logicalnesses: tính logic
+logistics: hậu cần, theo dõi hậu cần, công ty hậu cần
+logographically: về mặt logic
+long: dài
+longitudinal: theo chiều dọc
+longshoreman: người làm ở hải cảng
+longsightedness: cận thị nặng
+look: nhìn
+losing: thua, thất lạc
+loudspeaker: máy phát thanh, loa ngoài
+love: tình yêu
+lover: người yêu
+lower: thấp hơn, giảm bớt
+loyalty: lòng trung thành
+lucky: may mắn
+lucrative: sinh lợi
+lucrativeness: khả năng sinh lợi 
+lucrativenesses: sinh lợi
+ludicrous: lố bịch
+ludicrousnesses: sự lố lăng
+luminescence: phát quang
+lunch: bữa trưa
+luncheon: bữa ăn trưa, tiệc trưa
+lunchtime: giờ ăn trưa
+luxurious: sang trọng
+lymphadenitis: viêm hạch
+lymphadenitises: hạch
+lymphadenopathy: nổi hạch
+lymphocyte: tế bào
+lymphocytosis: tăng bạch cầu
+machine: máy móc
+machinery: máy móc
+macroeconomics: kinh tế vĩ mô
+magazine: tạp chí
+magnification: phóng đại
+magnificent: tráng lệ, lộng lẫy
+magnitude: tầm quan trọng
+main: chủ yếu
+mainstream: xu hướng
+maintain: duy trì
+maintenance: bảo trì, tiền bảo dưỡng
+major: chính
+majority: số đông, đa số
+management: sự quản lý
+manager: người quản lý
+manifestation: biểu hiện, sự biểu lộ
+manipulation: thao tác, sự vận động
+manipulative: thao túng, lôi kéo
+manufacture: sản xuất
+manufacturer: nhà sản xuất, nhà chế tạo
+many: vô số, nhiều
+march: tháng ba
+market: thị trường
+marketplace: thương trường
+master: bậc thầy
+match: trận đấu
+material: nguyên liệu, vật liệu
+materially: vật chất
+mathematical: toán học, thuộc về toán học
+mathematics: toán học
+matter: vấn đề
+meaning: có ý tốt, ý nghĩa
+meaningful: có ý nghĩa
+meaningless: vô nghĩa
+meanwhile: trong lúc ấy, trong khi ấy
+measure: đo lường, đo kích thước
+measurement: sự đo lường, đo đạc
+meat: bữa ăn
+mechanical: không suy nghĩ, cơ khí
+mechanism: cơ chế, sự tổ chức
+media: truyền thông
+medical: y khoa
+mediterranean: địa trung hải
+meet: gặp gỡ
+meeting: cuộc họp, cuộc gặp gỡ
+member: thành viên
+membership: tư cách hội viên
+memory: ký ức
+merchandise: hàng hóa
+merchandising: buôn bán
+message: tin nhắn, thông điệp
+metalinguistic: kim loại
+metamorphosis: sự biến hình
+metaphysical: siêu hình
+method: phương pháp
+methodology: phương pháp luận, phương pháp nghiên cứu
+metropolitan: thuộc về thủ đô, dân ở thủ đô
+microcomputer: máy vi tính
+microeconomics: kinh tế vi mô
+microevolution: tiến hóa vi mô
+microprocessor: bộ vi xử lý
+microstructure: cấu trúc vi mô
+middle: giữa
+midfield: tiền vệ
+might: có thể
+migration: di cư
+military: quân đội, quân nhân
+milk: sữa
+million: triệu
+mind: săn sóc
+minister: bộ trưởng, mục sư
+ministerial: bổ trợ, bộ trưởng
+minute: phút
+misappropriate: thích hợp
+miscellaneous: điều khoản khác, lẫn lộn
+mischaracterize: nhầm lẫn, hiểu sai
+misconception: ngộ nhận
+misconstruction: sự nhầm lẫn
+misleading: gây hiểu lầm
+misunderstood: hiểu lầm, hiểu không rõ
+modern: hiện đại
+modification: sửa đổi, sự giảm bớt
+molecular: phân tử, thuộc về phân tử
+moment: chốc lát
+money: tiền
+monounsaturated: chất béo, không bão hòa đơn
+month: tháng
+more: hơn, nhiều hơn nữa, thêm
+morning: buổi sáng
+mortality: tử vong
+mortgage: thế chấp, sự cho mượn
+most: hơn hết, phần lớn
+motivation: động lực 
+mountaineering: leo núi
+move: di chuyển
+movement: sự di động, phong trào
+movie: phim
+moving: di chuyển
+multicultural: đa văn hóa
+multifactorial: đa yếu tố
+multifamily: đa gia đình
+multifunctional: đa chức năng
+multilateral: đa phương
+multimedia: đa phương tiện
+multinational: đa quốc gia
+multiplayer: nhiều người chơi
+multiple: nhiều, kép
+multiplication: phép nhân
+multiplicative: phép nhân
+multiprocessing: đa chế biến, đa xử lý
+municipal: thuộc về đô thị
+municipality: thị trấn, thành phố
+music: âm nhạc
+mysterious: huyền bí
+nail: móng tay
+name: tên
+nanotechnology: công nghệ nano
+napkin: khăn ăn
+narrative: tường thuật
+narrow: hẹp
+national: quốc gia
+nationality: quốc tịch
+nationalization: cho nhập tịch
+nationwide: thế giới chung, toàn quốc
+natural: tự nhiên
+naturalistic: tự nhiên
+naturally: một cách tự nhiên
+naughty: nghịch ngợm
+navigation: dẫn đường
+nearby: lân cận
+nearly: gần, giống lắm, giống hệt
+nearsightedness: cận thị
+necessarily: nhất thiết
+necessary: cần thiết
+necessitate: cần thiết, bắt buộc
+necessity: sự cần thiết
+neck: cổ
+neckwear: khăn choàng cổ
+need: cần
+needs: cần
+neglectful: không chú ý, bỏ bê, bỏ quên
+neglectfully: lơ đễnh
+negligee: người da đen
+negligence: thiếu trách nhiệm
+negligible: có thể bỏ qua, không đáng kể
+negotiate: đàm phán
+negotiation: sự giao dịch
+negotiations: đàm phán, sự đổi chác
+neighborhood: khu vực lân cận
+neighbour: người láng giềng, hàng xóm
+neither: cũng không
+nephew: cháu trai
+nephropathic: suy thận
+nervous: lo lắng
+network: mạng lưới
+neurofibrillary: sợi thần kinh
+neurophysiology: sinh lý học thần kinh
+neuropsychology: tâm thần kinh
+neutralizations: trung lập
+neutralized: vô hiệu hóa
+neutralizer: chất trung hòa
+never: không bao giờ 
+nevertheless: tuy nhiên
+new: mới
+newbie: thành viên
+newsletter: bảng tin
+newspaper: báo
+newsreaders: người đọc tin tức
+next: tiếp theo
+niece: cháu gái
+nightfall: đêm xuống, lúc mặt trời lặn
+nightlife: cuộc sống về đêm
+nightmare: ác mộng
+nightshade: cây bạch anh, cây mồng tơi
+nobody: không ai cả
+noise: ồn ào 
+nomination: sự đề cử, sự bình chọn
+noncompliance: không tuân thủ, không bằng lòng
+nonconformist: người không tuân thủ
+nonconformity: không phù hợp
+noncontributory: không thuộc quyền sở hữu
+noncoopertion: không hợp tác
+nondeductible: không được khấu trừ
+nondestructive: không phá hủy
+nondistinctive: không phân biệt
+nonhierarchical: không có thứ bậc
+nonintervention: không can thiệp
+nonnegotiable: không thể thương lượng
+nonprescription: không theo đơn
+nonproductive: không hiệu quả, không sản xuất
+nonprofessional: không chuyên nghiệp
+nonreflecting: không phản ánh
+noodle: bún
+normal: bình thường
+normative: quy phạm, giá trị
+normativenesses: quy phạm
+north: hướng Bắc
+northeast: đông bắc
+northern: phương bắc
+nose: mũi
+notebook: sổ ghi chép
+nothing: không có gì
+notice: chú ý
+noticeable: đáng chú ý, thấy rõ ràng
+notification: thông báo
+notwithstanding: bất chấp, tuy nhiên, thế mà
+novation: nâng cao
+now: bây giờ
+nowadays: ngày nay
+noway: không đời nào
+nstrumentation: thiết bị đo đạc
+nuclear: nguyên tử
+number: số
+numerical: thuộc về số
+nurse: y tá
+nutrition: dinh dưỡng
+oasis: ốc đảo
+obedience: vâng lời, nghe lời
+obese: béo phì, bụng phệ
+obesity: chứng mập, béo phì
+obey: tuân theo, vâng lời
+obfuscations: sự xáo trộn
+object: vật thể, mục đích
+objectification: sự khách quan hóa
+objection: sự phản đối
+objectionable: phản đối
+objective: mục tiêu
+objectivity: tính khách quan
+obligation: nghĩa vụ
+obligatory: bắt buộc
+obliterate: bôi, cạo
+obliterating: xóa sổ
+obliteration: sự xóa sổ
+obscene: ghê gớm, tục tĩu
+obscure: mờ mịt
+observabilities: khả năng quan sát
+observable: có thể thấy, trông thấy
+observation: quan sát
+observationally: quan sát
+observatory: đài quan sát
+observe: quan sát
+obsession: ám ảnh
+obsessivenesses: ám ảnh
+obstetrician: bác sĩ sản khoa
+obstetrics: khoa sản
+obstinatenesses: sự cố chấp
+obstreperous: chướng tai
+obstruction: sự cản trở
+obstructionisms: chướng ngại vật
+obstructionist: người cản trở
+obtain: đạt được
+obviate: xóa sổ
+obvious: hiển nhiên
+occasional: thỉnh thoảng
+occasionally: thỉnh thoảng
+occidental: ngẫu nhiên
+occidentalize: ngẫu nhiên
+occidentalizing: ngẫu nhiên
+occult: huyền bí, bí mật
+occupancy: chiếm dụng
+occupation: nghề nghiệp
+occupational: nghề nghiệp
+occupy: giữ, chiếm
+occur: xảy ra
+occurrence: tần suất xảy ra, biến cố
+ocean: đại dương
+oceanic: hải dương
+oceanographical: hải dương học
+offbeat: khác thường
+offence: xúc phạm
+offense: xúc phạm
+offensive: phản cảm
+offensivenesses: sự xúc phạm
+offering: chào bán
+office: văn phòng
+officeholder: chủ văn phòng
+officer: nhân viên văn phòng
+official: chính thức
+officialese: chính thức
+offline: ngoại tuyến
+offload: giảm tải
+offset: bù lại
+offspring: con đẻ, con cái
+often: thường xuyên
+oil: dầu
+old: cũ
+olfactometer: máy đo khứu giác
+olive: ôliu
+ominous: điềm xấu, đáng ngại
+omnidirectional: đa hướng
+omnipotent: toàn năng, thượng đế
+omnipresent: có mặt khắp nơi
+omniscient: toàn trí, toàn thức
+once: một lần, ngày xưa
+onchocerciases: bệnh ung thư
+oncogenicities: những người có tội
+one: một, số một
+oneself: bản thân
+ongoing: đang diễn ra
+onion: củ hành
+only: chỉ
+onset: sự khởi đầu
+onshore: trên bờ
+ontogenetically: về mặt di truyền
+onward: trở đi, xa hơn
+opacity: sự u mê
+opaque: mờ mịt
+open: mở
+openhandedness: cởi mở
+opening: khai mạc
+opera: nhạc kịch
+operate: có tác dụng, vận hành
+operation: hoạt động
+operational: hoạt động
+operationalism: chủ nghĩa hoạt động
+operativenesses: tác nghiệp
+operator: nhà điều hành
+ophthalmic: thuộc về mắt
+ophthalmologist: bác sĩ nhãn khoa (nhãn khoa y học)
+ophthalmology: nhãn khoa
+opinion: ý kiến
+opinionated: khăng khăng, ngoan cố
+opinionative: cố chấp
+opium: thuốc phiện
+opponent: phản đối
+opportunist: người cơ hội
+opportunistic: cơ hội
+opportunity: cơ hội
+opposite: đối diện
+opposition: sự đối đầu
+oppositionist: người chống đối
+oppression: sự áp bức
+oppressive: áp bức
+opprobrious: hung dữ
+optic: quang học
+optics: quang học
+optimal: tối ưu
+optimization: tối ưu hóa
+option: lựa chọn
+optional: không bắt buộc
+optoelectronics: quang điện tử
+oracle: tiên tri, nhà tiên tri
+oratorical: hình bầu dục
+orchard: vườn cây ăn quả
+orchestra: dàn nhạc
+orchestrate: dàn dựng
+orchestration: sự dàn dựng
+orchidaceous: hoa phong lan
+order: đặt hàng
+orderly: có trật tự
+ordinal: thứ tự
+ordinance: sắc lệnh
+ordinarily: bình thường
+ordinary: bình thường
+organ: cơ quan, đàn organ
+organicism: chủ nghĩa hữu cơ
+organization: cơ quan, tổ chức, cách cấu tạo, sự giữ gìn
+organize: tổ chức
+organized: có tổ chức
+organochlorine: clo hữu cơ
+organometallic: kim loại
+orient: định hướng
+orientation: sự định hướng
+orienteering: định hướng
+original: nguyên bản
+originality: độc đáo
+originally: ban đầu
+originate: bắt nguồn
+ornamental: trang trí
+ornamentation: vật trang trí
+ornithological: loại chim chóc
+orphan: mồ côi
+orthogenesis: sự phát sinh
+orthogonal: trực giao
+orthographic: chỉnh hình
+orthographical: chỉnh hình
+orthopedics: chỉnh hình
+orthopsychiatry: khoa tầm thần học  
+orthostatic: thế đứng
+orthotropous: chỉnh hình
+oscillation: sự lung lay
+oscillograph: dao động
+oscillographic: dao động
+osmolarity: độ thẩm thấu
+osmoregulations: lời chúc mừng
+osmosis: sự thẩm thấu
+ossification: hóa thạch
+ostensible: bề ngoài, tự xưng
+ostentatious: phô trương
+ostentatiously: phô trương
+osteoarthritis: viêm xương khớp
+osteomalacia: nhuyễn xương
+osteomyelitis: viêm tủy xương
+osteopathy: nắn xương
+osteoplastic: chất tạo xương
+osteoporosis: loãng xương
+osteosarcoma: u xương
+ostrich: con đà điểu
+other: khác
+otherwise: nếu không thì
+otherworld: thế giới khác
+otherworldly: thế giới khác
+otolaryngology: khoa tai mũi họng
+otter: con rái cá
+ought: phải
+ourselves: chính chúng ta
+out: ngoài
+outback: hẻo lánh
+outbuilding: xây dựng
+outcompete: cạnh tranh
+outcry: phản đối
+outdoorsman: người ngoài trời
+outer: bên ngoài
+outfielder: tiền vệ
+outlandish: lạ lùng, kỳ dị
+outlaw: ngoài vòng pháp luật
+outlay: ra ngoài
+outline: đề cương
+outlook: quan điểm
+outmaneuver: vượt qua
+outpatient: bệnh nhân ngoại trú
+outperform: vượt trội
+outplacement: sự thay thế
+outpouring: chảy ra, sự tuôn ra
+output: sức sản xuất, đầu ra
+outrage: sự phẫn nộ
+outrageous: tàn nhẫn
+outside: ở ngoài
+outskirts: ngoại ô
+outsource: thuê ngoài
+outsourcing: gia công phần mềm
+outspoken: thẳng thắn, người ngay thẳng
+outstanding: nổi bật
+outstation: trạm dừng chân
+outward: bề ngoài
+ovation: sự reo mừng, sự vui mừng
+overabundance: dư thừa
+overall: tổng thể
+overambitious: quá tham vọng
+overarching: bao quát
+overbalance: mất thăng bằng
+overbearing: hống hách
+overbought: mua quá nhiều
+overburden: bắt gánh vác, quá tải
+overcapacity: dư thừa
+overcapitalize: thừa sức sống
+overcautious: cẩn thận
+overcharge: quá tải
+overcommit: thừa nhận
+overcommitted: thừa nhận
+overcompensate: bù đắp quá mức
+overconfident: thừa sự tự tin
+overcorrect: quá đúng đắn
+overdominance: vượt trội
+overdue: quá hạn
+overemphasize: nhấn mạnh quá mức
+overestimate: đánh giá quá cao
+overfamiliar: quá quen
+overgeneralize: tổng quát hóa quá mức
+overgenerous: quá nhiều
+overgrowth: phát triển quá mức
+overindulge: quá mức
+overlap: chồng lên nhau
+overly: quá mức, nhiều quá
+overmedicate: thái quá
+overnight: qua đêm
+overoptimistic: quá mức
+overpersuade: quá sức
+overpopulate: dân số quá đông
+overpopulation: dân số quá đông
+overpowering: chế ngự
+overpressure: quá áp
+overprivileged: quá đặc quyền
+overproportion: quá tỷ lệ
+overqualified: thừa năng lực
+overregulate: kiểm soát quá mức
+overrepresented: đại diện quá mức
+oversaturations: dư thừa
+oversaw: trông nom, giám sát
+overscrupulous: vô đạo đức
+overseas: hải ngoại
+oversee: giám sát
+oversensitive: không nhạy cảm
+overshadow: làm lu mờ, che mắt
+oversimplify: đơn giản hóa quá mức
+oversolicitous: thái quá
+overspecialize: quá chuyên môn hóa
+overstability: nói quá
+overstatement: phóng đại
+oversupply: cung cấp quá mức
+overt: công khai, rõ ràng
+overutilizing: sử dụng quá mức
+overweening: tràn ngập
+overwhelming: choáng ngợp
+overwrought: quá sức
+overzealous: quá hăng hái
+ovipositional: thuộc về thần tượng
+owing: nợ, thiếu
+ownership: quyền sở hữu
+pacification: sự bình định
+packaging: bao bì
+panel: bảng điều khiển
+paper: tờ giấy
+paralinguistic: thuộc về ngôn ngữ
+parallelepiped: song song
+paramilitary: bán quân sự
+paraphernalia: vật dụng
+parapsychology: tâm lý học
+parliament: nghị viện
+parliamentarian: nghị sĩ, nghị viện, thuộc về nghị sĩ
+parliamentary: nghị viện
+parthenogenesis: sinh sản
+participant: người tham gia
+participate: tham dự
+participation: sự tham gia
+participatory: có sự tham gia
+particular: cụ thể
+particularly: đặc biệt, cặn kẽ
+partly: từng phần, từng đoạn
+partner: đồng ngiệp, bạn đồng hành
+partnership: sự hợp tác
+party: bữa tiệc
+pass: vượt qua
+passenger: hành khách
+patent: bằng sáng chế
+pathbreaking: sự phá vỡ
+pathological: bệnh lý
+patient: kiên nhẫn
+patriarchate: gia trưởng
+payment: sự thanh toán
+peace: thái bình, sự thanh bình
+peacekeeping: gìn giữ hòa bình
+peak: đỉnh cao, suy yếu
+pediatrician: bác sĩ nhi khoa
+people: mọi người
+percent: phần trăm
+percentage: tỷ lệ phần trăm
+perception: nhận thức, sự lý giải
+perfectly: hoàn hảo, không khuyết điểm
+performance: hiệu suất
+perhaps: có lẽ, không chừng
+period: giai đoạn
+periodontology: sinh vật học
+permanent: dài hạn, luôn luôn, thường xuyên
+permeability: thấm
+permission: sự cho phép, sự chấp thuận
+perpendicular: vuông góc
+perseverance: kiên trì
+persistent: kiên trì
+person: người
+personal: riêng tư, cá nhân
+personality: nhân vật, nhân cách
+personally: cá nhân
+personification: nhân cách hóa
+perspective: góc nhìn cá nhân
+petrochemistry: hóa dầu
+pharmaceutical: dược phẩm
+pharmacology: dược lý học
+pharmacotherapy: liệu pháp dược
+phase: biểu tượng, giai đoạn
+phenomenon: hiện tượng
+philanthropy: từ thiện
+philosophy: triết học
+phone: điện thoại
+photochemistry: quang hóa học
+photograph: ảnh chụp, chụp hình
+photographic: chụp ảnh
+photojournalism: phóng viên ảnh
+photosensitive: cảm quang
+photosynthesis: quang hợp, sự quang hợp
+physical: vật lý, thuộc về vật chất
+physicochemical: hóa lý
+physiotherapy: vật lý trị liệu
+phytochemistry: hóa thực vật
+phytopathology: ngành thực vật học
+picked: hái, nhặt
+picture: bức tranh, bức ảnh
+piece: cái, giá
+pilot: phi công
+pink: màu hồng
+place: địa điểm
+plaintiff: nguyên đơn
+plant: cây cối
+plate: đĩa, tấm ổ khóa
+platform: nền tảng
+pleasure: làm vừa lòng, vui lòng
+plenipotentiary: toàn quyền, được toàn quyền
+plenty: sự chan chứa
+polarization: sự phân cực
+police: cảnh sát
+policy: chính sách
+policyholder: chủ hợp đồng
+pollution: sự ô nhiễm
+polymerization: sự trùng hợp
+poor: nghèo
+popular: phổ biến
+popularizations: phổ biến
+population: dân số
+portfolio: danh mục đầu tư
+position: chức vụ, thái độ
+positive: tích cực, cương quyết
+possession: chiếm hữu, thuộc địa
+possibility: khả năng, tình trạng
+possible: khả thi, có thể làm được
+postgraduate: sau đại học
+postmenopausal: tiền mãn kinh
+postoperative: hậu phẫu
+potential: tiềm năng, tiềm lực
+power: quyền lực
+powerful: năng lượng
+practical: thực dụng, tiện lợi
+practically: thực tế
+practice: âm mưu, thực hành
+practitioner: người hành nghề
+preadolescence: thời kỳ thiếu niên
+precautionary: đề phòng
+precipitation: lượng mưa
+precipitinogens: chất kết tủa
+precisely: tỉ mỉ
+precision: độ chính xác, tính rõ ràng
+preconditioned: điều chỉnh trước
+preconsciously: chính xác
+predecessor: người tiền nhiệm
+predestination: sự tiền định
+predisposition: khuynh hướng, khuynh hướng về
+prefer: thích hơn
+preference: sở thích
+preferential: ưu đãi
+preliminary: sơ bộ
+premalignant: tiền ác tính
+preoccupation: bận tâm
+preparation: sự chuẩn bị
+preparedness: sự chuẩn bị
+preponderance: ưu thế
+prepresidential: tiền bảo kê
+preprofessional: chuyên nghiệp
+prepublication: sự xuất bản
+preregistration: đăng ký trước
+presbyterian: người già
+prescription: đơn thuốc
+presence: sự hiện diện, sự có mặt
+present: cho đến nay, hiện tại
+presentation: bài thuyết trình
+preservationist: người bản tồn
+president: chủ tịch, giám đốc
+presidential: tổng thống
+pressure: sức ép
+prestigious: uy tín
+preventative: ngăn ngừa
+prevention: phòng ngừa, sự ngăn cản
+previous: trước, vội vàng, gấp gáp
+primary: sơ cấp
+prime: tội phạm
+prince: hoàng tử
+principal: hiệu trưởng, quan trọng, chủ yếu
+principle: nguyên tắc
+printing: in ấn
+prior: trước, nguyên thủy, đầu tiên
+priority: sự ưu tiên
+prison: nhà tù
+private: riêng tư
+prize: giải thưởng
+probabilistic: xác suất
+probability: xác suất
+probably: có lẽ
+problem: vấn đề
+problematic: có vấn đề, mơ hồ
+procedure: thủ tục, phương thức
+process: quá trình, quy trình
+proclamation: tuyên ngôn
+producer: người sản xuất
+product: sản phẩm
+production: sản xuất
+productive: năng suất
+productivity: năng suất
+profession: nghề nghiệp
+professional: chuyên nghiệp
+professionalism: sự chuyên nghiệp
+professor: giáo sư
+profit: lợi nhuận
+profitable: có lãi
+program: chương trình
+programme: chương trình
+programming: lập trình
+progress: phát triển
+progression: sự tiến triển
+progressive: cấp tiến
+prohibitionist: người cấm đoán
+project: dự án
+prominent: nổi bật
+promising: hứa hẹn, đầy hy vọng
+promotion: thăng chức, cải tiến
+pronouncement: lời tuyên bố
+pronunciation: cách phát âm
+proof: bằng chứng
+proper: thích hợp
+property: bất động sản
+proportion: tỷ lệ
+proportional: cân đối, tỷ lệ thuận
+proportionate: tương xứng
+proposal: đề nghị
+proposition: mệnh đề, điều dự định
+proprietary: độc quyền
+proprioception: sự khởi đầu
+proscription: lời tố cáo, sự cấm đoán
+prosecution: truy tố, sự theo đuổi
+prospect: tiềm năng
+prospective: có triển vọng
+prosthodontics: răng giả
+protection: sự bảo vệ
+protectionism: chủ nghĩa bảo hộ
+proud: tự hào, kiêu căng
+prove: chứng minh
+proven: chứng minh
+provide: cung cấp
+provided: cung cấp, thuộc về cung cấp
+provision: điều khoản, cung cấp, cấp dưỡng
+provisional: tạm thời
+psychiatrist: bác sĩ tâm lý
+psychoacoustics: thuốc tâm thần
+psychological: tâm lý
+psychologist: nhà tâm lý học
+psychotherapist: nhà trị liệu tâm lý
+public: cộng đồng
+publication: sự xuất bản, sự công bố
+publicity: công khai
+publisher: nhà xuất bản, người phát hành
+purchase: mua bán
+purpose: mục đích
+pursuant: hoàn toàn
+pursue: đuổi theo, theo đuổi
+push: thúc đẩy
+quadrangles: hình tứ giác
+quadrilateral: tứ giác
+quadripartite: tứ phương
+quadrivalent: hóa trị bốn
+quadroons: hình tứ giác
+quadruplicate: gấp bốn
+quaggiest: tìm kiếm
+quagmire: vũng lầy
+quagmires: vũng lầy
+quaint: kỳ lạ
+qualifications: bằng cấp
+qualifiedly: đủ tiêu chuẩn
+qualifies: đủ tiêu chuẩn
+quality: chất lượng
+quandary: nỗi khó khăn
+quanta: lượng tử
+quantifying: định lượng
+quantile: lượng tử
+quantitations: định lượng
+quantitative: định lượng
+quantitatively: định lượng
+quantity: định lượng
+quantization: lượng tử hóa
+quantizations: lượng hóa
+quantizer: bộ định lượng
+quantum: lượng tử
+quarantines: cách ly
+quarantining: cách ly
+quarrel: cuộc tranh cãi
+quarrelling: cãi nhau
+quarrelsomeness: cãi vã
+quarry: mỏ đá
+quarter: phần tư
+quarterbacked: hỗ trợ
+quarterfinal: tứ kết
+quarterfinalist: tứ kết
+quartermaster: quý trưởng
+quartier: người khai thác
+quartile: phần tư
+quash: hủy án
+quatercentenary: bậc bốn
+quaveringly: run rẩy
+queasy: buồn nôn
+queer: người kỳ lạ
+queerer: người hỏi
+quell: dập tắt
+queller: người bán hàng
+quench: dập tắt
+queries: truy vấn
+querulousnesses: kỳ quặc
+query: truy vấn
+quester: người hỏi thăm
+question: câu hỏi
+questionable: nghi vấn
+questionnaire: bảng câu hỏi
+questionnaires: bảng câu hỏi
+queues: hàng đợi
+quibble: không phân minh
+quiches: nhanh chóng
+quick: nhanh chóng, mau lẹ, gọn gàng
+quickie: nhanh lên
+quickset: hàng rào cây
+quietism: chủ nghĩa lập dị
+quietly: lặng lẽ
+quietude: im lặng
+quill: lông nhím
+quills: bút lông
+quilt: may chăn
+quincentenary: tứ quý
+quinta: tạ
+quintessence: tinh hoa
+quintessential: tinh túy, thuộc về tinh túy
+quintuplicated: nhân đôi
+quippier: vui vẻ hơn
+quipsters: câu đố
+quirk: kỳ quặc
+quirting: nói dối
+quisling: làm phiền
+quit: bỏ cuộc
+quite: khá, toàn vẹn
+quitrents: bỏ việc
+quiver: run
+quiverer: người run rẩy
+quivering: run rẩy
+quixotic: anh hùng rơm
+quiz: câu đố
+quizzicalities: sự kỳ lạ
+quizzically: kỳ quặc
+quods: bắt giam
+quorum: túc số
+quota: hạn nghạch
+quotability: khả năng báo giá
+quoted: trích dẫn
+quotient: thương số
+radiation: sự phóng xạ
+radio: đài radio
+radioactive: phóng xạ, có năng lực phóng xạ
+radiotelegraphy: máy ghi âm vô tuyến
+radiotherapy: xạ trị
+raise: nâng cao, gây ra
+range: xếp hàng, phạm vi
+rapid: nhanh, mau lẹ, ngay thẳng
+rate: tỷ lệ, khiển trách
+rather: hơn, chút ít
+ratio: tỷ lệ
+rationality: tính hợp lý
+rationalization: sự hợp lý, hợp lý hóa
+reaccreditation: công nhận lại
+reach: chạm tới, đưa ra
+reaction: phản ứng
+read: đọc
+ready: sẵn sàng, chuẩn bị cho việc gì
+real: thực tế thực sự
+realistic: thực tế, hiện thực
+reality: thực thế, sự thật
+realization: hiện thực hóa
+really: có thật không?
+reason: lý do, duyên cớ
+reasonable: hợp lý
+rebroadcast: phát lại
+recalcitrant: bướng, ngoan cố
+recapitulation: sự tóm tắt, tóm lược
+receivable: phải thu, có biên lai
+receive: tiếp đãi, tiếp đón, nhận được
+received: nhận, có nhận
+receivership: sự tiếp nhận
+recent: gần đây, mới đây
+reception: tiếp nhận
+receptionist: lễ tân, nhân viên tiếp khách
+recession: suy thoái
+reclamation: sự cải thiện, khai khoang
+recognition: sự công nhận, sự thừa nhận
+recognize: nhìn nhận, công nhận, nhận biết
+recollection: hồi ức, tĩnh tâm
+recombinant: tái tổ hợp
+recommend: giới thiệu, dặn dò
+recommendation: sự giới thiệu
+reconciliation: hòa giải
+reconnaissance: sự do thám, sự dò xét
+reconstruct: tái tạo lại
+reconstruction: tát thiết, trùng tu lại
+reconstructive: tái tạo
+record: ghi lại 
+recording: ghi âm
+recovery: sự tìm lại, sự hồi phục
+recreation: giải trí, sự tái tạo
+recreational: giải trí
+rectangular: hình hộp chữ nhật
+redemption: sự mua chuộc, chuộc lỗi
+redevelopments: tái phát triển
+redistribution: phân phối lại, chia cắt lại
+redistributive: phân phối lại
+reduce: giảm
+reduction: giảm bớt
+reductivenesses: giảm bớt
+redundant: dư thừa, rườm rà
+refer: tham khảo
+reference: tài liệu tham khảo
+reflect: phản chiếu, nghĩ ngợi, dội lại
+reflection: sự chỉ trích, sự phản chiếu
+reform: cải cách, canh tân
+reformation: sự sửa đổi
+refortification: sự cải tổ
+refrigerator: tủ lạnh, phòng lạnh
+regarding: chú ý, để ý
+regardless: bất kể, không để ý
+regeneration: sự cải tạo, sự tái tạo
+regenerative: tái sinh, tái tạo
+regional: khu vực
+regionalization: khu vực hóa
+register: đăng ký
+registered: đã đăng ký
+registration: đăng ký, sự ghi tên
+regular: đều đặn, thường xuyên
+regularizations: quy định
+regulation: quy định, có quy tắc
+rehabilitate: phục hồi, khôi phục
+reinvigorate: hồi sinh
+related: liên quan, có dính dáng
+relationship: mối quan hệ
+relative: quan hệ, tùy theo
+relatively: tương đối
+release: giải phóng, giấy biên nhận
+relevance: sự liên quan, sự thích đáng
+relevant: liên quan, thích hợp
+reliable: đáng tin cậy
+religious: tôn giáo
+reluctant: lưỡng lự, miễn cưỡng
+remain: còn lại, đồ ăn dư thừa
+remainder: phần còn lại
+remains: còn lại 
+remanufacturing: tái sản xuất
+remarkable: đáng chú ý
+remember: nhớ
+rememberability: khả năng nhớ
+remobilizations: sự di dời
+remonetization: làm lại
+remonstratively: còn lại
+remuneration: sự khen thưởng, thù lao
+renaissance: sự phục hưng
+renegotiations: đàm phán lại
+reorganization: tổ chức lại
+repeated: lặp đi lặp lại
+repeatedly: nhiều lần, nhắc lại
+replacement: sự thay thế
+replication: nhân rộng, đáp lại
+report: báo cáo
+reportedly: được báo cáo
+represent: đại diện
+representation: sự diễn tả, đại diện
+representative: tiêu biểu
+reproduction: sinh sản
+reproductive: sinh sản, sinh thực
+republic: cộng hòa, đoàn thể
+republican: cộng hòa
+reputation: uy tín, danh tiếng
+request: yêu cầu, đòi hỏi
+require: yêu cầu, cần dùng
+required: cần thiết
+requirement: sự yêu cầu
+research: nghiên cứu
+reservation: sự hạn chế, sự giới hạn
+residence: nơi cư trú, chỗ ở
+residential: khu dân cư
+resignation: sự từ chức
+resistance: sự chống cự, sức cản
+resolution: sự phân giải
+resource: nguồn, phương pháp, phương sách
+respect: tôn trọng, kính trọng
+respectability: sự tôn trọng
+respectable: đáng kính, đúng đắn
+respective: tương ứng
+respectively: tương ứng
+respiratory: hô hấp, thuộc về hô hấp
+respond: trả lời
+response: sự đáp lại, phản ứng
+responsibility: nhiệm vụ
+responsible: chịu trách nhiệm, đáng tin cậy
+responsive: phản ứng nhanh nhẹn
+rest: nghỉ ngơi
+restaurant: nhà hàng
+restoration: sự phục hồi, sự hoàn lại
+restricted: hạn chế
+restriction: sự hạn chế
+restrictionists: những người hạn chế
+restrictive: giảm bớt
+restrictiveness: sự hạn chế
+restructure: tái cấu trúc
+result: kết quả
+resurrection: hồi sinh, sự phục hưng
+resurrectionist: người hồi sinh
+retention: giữ lại, sự tự chế
+retirement: sự nghỉ hưu
+retransmissions: truyền lại
+retroreflectors: phản xạ
+return: sự đền bù, trở về
+revenue: doanh thu, tiền lời, lợi tức
+revitalizations: sự hồi sinh
+revolution: cuộc cách mạng, cuộc trỗi dậy, cuộc khởi nghĩa
+revolutionaries: nhà cách mạng
+right: đúng, hoàn toàn
+ring: nhẫn
+risk: rủi ro
+river: con sông
+road: con đường
+role: luật lệ, quy định, vai trò
+rose: hoa hồng
+rough: thô, gập ghềnh
+round: tròn, xung quanh
+roundtable: bàn tròn
+route: lộ trình
+royal: hoàng gia, lộng lẫy
+running: đang chạy, liên tiếp
+safety: an toàn
+said: nói
+sale: bán
+satisfied: hài lòng
+scholarship: học bổng, sự thông thái
+school: trường học
+schoolmaster: hiệu trưởng, thầy giáo
+schoolteacher: giáo viên
+science: khoa học
+scientific: thuộc về khoa học
+sea: biển
+season: mùa
+second: thứ hai
+secondary: thứ hai
+secretary: thư ký
+section: phần
+sectionalism: chủ nghĩa phân biệt
+security: bảo vệ
+see: thấy
+seem: dường như
+segregation: sự phân biệt
+selection: sự lựa chọn
+semicivilized: bán văn minh
+semiconductor: chất bán dẫn
+semisubmersible: bán trôi chảy 
+semitransparent: bán trong suốt
+send: gửi
+senior: cao cấp
+sensationalism: chủ nghĩa giật gân
+sense: giác quan
+sensitive: nhạy cảm
+sensitivity: nhạy cảm
+sensorimotor: cảm biến
+sentimentalize: tình cảm hóa
+series: loạt
+serious: nghiêm trọng
+seroconversion: chuyển đổi huyết thanh
+serve: cư xử
+service: dịch vụ
+setting: cài đặt
+settlement: giải quyết
+seven: số bảy
+seventeenth: thứ mười bảy
+several: một vài
+share: chia sẻ
+shareholder: cổ đông 
+short: ngắn
+should: nên
+show: cho xem
+sign: ký tên
+significant: có ý nghĩa
+significative: có ý nghĩa
+similar: giống nhau
+simple: đơn giản
+simply: đơn giản
+since: từ
+single: độc thân
+site: địa điểm
+situation: tình hình
+six: số sáu
+small: nhỏ
+social: xã hội
+society: xã hội
+socioeconomic: kinh tế xã hội
+software: phần mềm
+solution: giải quyết
+some: một vài
+someone: người nào đó
+something: một thứ gì đó, cái gì đó
+sometimes: đôi khi
+somewhere: một vài nơi
+son: đứa con
+soon: sớm
+sophisticated: tinh vi
+sound: âm thanh
+source: nguồn
+south: miền nam
+space: không gian
+special: đặc biệt
+specialist: chuyên gia, nhà chuyên môn
+specialization: chuyên môn hóa
+specification: sự chỉ rõ
+spectacular: cảnh sắc, đẹp mắt
+speculation: suy đoán, quan sát
+speed: tốc độ
+spreadsheet: bảng tính
+staff: nhân viên
+stage: sân khấu
+standard: tiêu chuẩn
+star: ngôi sao
+start: bắt đầu
+state: tiểu bang
+statement: tuyên bố
+statistical: thống kê
+statistics: sự thống kê, số liệu thống kê
+stay: ở lại
+still: vẫn
+stock: cổ phần
+stockholder: chủ kho
+stop: dừng lại
+story: câu chuyện
+straightedge: cạnh thẳng, góc thẳng
+straightforward: thẳng thắn, chân thật
+straightjacket: áo khoác
+strategic: chiến lược
+strategy: chiến lược
+stratification: sự phân tầng
+streamlined: sắp xếp hợp lý
+street: đường phố
+streetwalker: người đi đường
+strength: sức mạnh
+strengthen: củng cố
+strong: khỏe khoắn
+structural: cấu trúc
+student: sinh viên
+study: học tập
+stupefaction: sự ngạc nhiên, sự sửng sốt
+subcomponent: thành phần phụ
+subcontractor: nhà thầu phụ
+subdivision: sự chia nhỏ, sự chia ra
+subject: môn học
+subjectivism: chủ nghĩa chủ quan
+submission: nộp hồ sơ
+subprofessional: chuyên nghiệp
+subsequent: tiếp theo
+subsidiary: công ty con
+substance: vị trí
+substantial: đáng kể, bền bỉ
+substantive: thực chất
+success: sự thành công
+successful: thành công
+succession: sự kế thừa
+such: như là
+sufficient: đủ, đầy đủ
+suggestion: gợi ý
+summer: mùa hè
+sun: mặt trời
+supercomputer: siêu máy tính
+superconducting: siêu dẫn
+supercontinent: siêu lục địa
+superintendence: giám thị
+superior: cấp trên
+supermarket: siêu thị
+supernaturalism: thuyết siêu nhiên
+supernutritions: siêu dinh dưỡng
+supersaturation: bão hòa
+superscription: ghi trên đâu đó
+supersensible: siêu phàm, siêu cảm giác
+superstructure: cấu trúc thượng tầng
+supervision: giám đốc, sự giám thị
+supplement: phần bổ sung
+supply: cung cấp
+support: hỗ trợ
+supportive: ủng hộ
+suppression: sự đàn áp, sự bãi bỏ
+sure: chắc chắn, bảo đảm
+surprise: ngạc nhiên
+susceptibility: sự nhạy cảm
+sympathetic: thông cảm
+sympathize: thông cảm
+sympathomimetic: giao cảm
+synthesized: tổng hợp
+system: hệ thống
+table: bàn
+tactics: chiến thuật
+tailored: phù hợp
+take: lấy
+taken: lấy
+taking: đang lấy
+talent: năng lực
+talisman: bùa hộ mệnh
+talk: nói chuyện
+target: mục tiêu
+taste: nếm thử
+taught: đã dạy
+taxation: thuế
+teach: dạy
+teacher: giáo viên
+teaching: giảng bài
+team: đội
+technical: kỹ thuật
+technicality: tính kỹ thuật
+technician: kỹ thuật viên
+technique: kỹ thuật
+technological: công nghệ
+technology: công nghệ
+telangiectasia: giãn tĩnh mạch xa
+telecom: viễn thông
+teleconference: hội nghị từ xa
+telemarketing: tiếp thị qua điện thoại
+telephone: điện thoại
+telephotography: chụp ảnh từ xa
+teletypewriter: máy đánh chữ
+television: TV
+tell: nói
+telling: nói
+temperament: tính cách
+temperatenesses: ôn hòa
+temperature: nhiệt độ
+temporarinesses: tạm thời
+temporary: tạm thời
+temptation: sự cám dỗ
+tenant: người thuê nhà
+tendency: khuynh hướng
+tender: đấu thầu
+tennis: quần vợt
+tension: căng thẳng
+term: kỳ hạn
+terminal: thiết bị đầu cuối
+termination: chấm dứt
+terminology: thuật ngữ
+terrestrial: trên cạn
+terrible: kinh khủng
+territorial: lãnh thổ
+territorialism: chủ nghĩa lãnh thổ
+territorialized: lãnh thổ
+territory: lãnh thổ
+terrorist: khủng bố
+test: kiểm tra
+testament: di chúc
+text: bản văn
+than: hơn
+thanks: cảm ơn
+thanksgiving: tạ ơn
+theatre: rạp hát
+theatrical: thuộc sân khấu
+their: của chúng
+them: chúng
+theme: chủ đề
+themselves: chúng tôi
+then: sau đó
+theological: thần học
+theoretical: lý thuyết
+theory: học thuyết
+therapeutic: trị liệu
+therapeutically: trị liệu
+therapy: trị liệu
+thereafter: sau đó
+thereby: bằng cách ấy
+therefore: vì thế
+thermocouple: cặp nhiệt điện
+thermography: nhiệt kế
+thermonuclear: nhiệt hạnh
+thermoplastic: nhựa nhiệt dẻo
+they: bọn họ
+thing: điều
+thinking: suy nghĩ
+thirteen: mười ba
+thirty: ba mươi
+thorough: kỹ lưỡng
+thoroughfare: lộ trình
+thoroughgoing: kỹ lưỡng
+though: tuy nhiên
+thought: nghĩ
+thoughtful: chu đáo
+thousand: nghìn
+threat: mối đe dọa
+threatened: bị đe dọa
+three: số ba
+threshold: ngưỡng
+through: xuyên qua
+throughout: khắp
+throughput: thông lượng
+thunderstorm: giông
+thus: do đó
+ticket: vé
+time: thời gian
+timely: hợp thời
+times: lần
+timing: thời gian
+tissue: mô
+title: tiêu đề
+tobacco: thuốc lá
+today: hôm nay
+together: cùng nhau
+told: kể lại
+tomography: chụp cắt lớp
+tomorrow: ngày mai
+tonight: tối nay
+took: lấy
+topography: địa hình
+total: toàn bộ
+totally: tổng cộng
+tourism: du lịch
+tourist: khách du lịch
+tournament: giải đấu
+toward: về phía
+towards: hướng tới
+tower: tòa tháp
+town: thị trấn
+track: theo dõi
+tracking: theo dõi
+trade: buôn bán
+trademark: nhãn hiệu
+tradition: truyền thống
+traditional: truyền thông
+traditionalism: chủ nghĩa truyền thống
+traditionalize: truyền thống hóa
+traffic: giao thông
+tragedy: bi kịch
+train: xe lửa
+training: đào tạo
+tranquillity: yên bình
+transaction: giao dịch
+transatlantic: xuyên Đại Tây Dương
+transcendental: siêu việt
+transcript: bảng điểm
+transcription: phiên mã
+transdermal: thẩm thấu qua da
+transduction: chuyển nạp
+transfection: chuyển giao
+transfer: chuyển khoản
+transferability: khả năng chuyển nhượng
+transfiguration: sự biến hình
+transform: biến đổi
+transformation: sự biến đổi
+transformer: máy biến áp
+transfusion: truyền máu
+transgendered: chuyển giới
+transgression: sự vi phạm
+transhistorical: xuyên lịch sử
+transistor: bóng dán dẫn
+transit: quá cảnh
+transition: chuyển tiếp
+translation: dịch
+translator: người dịch
+translucent: mờ
+transmission: quá trình lây truyền
+transmissivity: sự truyền
+transmitter: hệ thống điều khiển
+transnational: xuyên quốc gia
+transparency: minh bạch
+transparent: trong suốt
+transplant: cấy
+transport: vận chuyển
+transportation: vận chuyển
+transportations: vận chuyển
+transpositional: chuyển tiếp
+travel: du lịch
+traveled: đi du lịch
+treacherous: bội bạc
+treasurer: thủ quxy
+treasury: kho bạc
+treat: đãi
+treatment: sự đối xử
+treaty: hiệp ước
+tremendous: to lớn
+trend: khuynh hướng
+triangular: hình tam giác
+triangulation: tam giác
+tribute: cống vật
+triumph: chiến thắng
+triumphant: đắc thắng
+tropical: nhiệt đới
+trouble: rắc rối
+troubleshoot: khắc phục sự cố
+troublesome: khó khăn
+true: sự thật
+trust: lòng tin
+trustworthiness: đáng tin cậy
+truth: sự thật
+trying: cố gắng
+turbulence: nhiễu loạn
+turn: xoay
+turnaround: quay lại
+turning: quay
+turnover: doanh số
+twelve: mười hai
+twenty: hai mươi
+type: kiểu
+typical: điển hình
+typology: phân loại học
+ubiquitous: phổ cập
+ugly: xấu xí
+ultimate: tối thượng
+ultimately: cuối cùng
+ultra: cực kỳ
+ultracentrifuge: siêu ly âm
+ultrafiltration: siêu lọc
+ultrahigh: cực cao
+ultramicroscope: kính hiển vi siêu nhỏ
+ultraminiature: siêu nhỏ
+ultrasonics: siêu âm
+ultrasonography: siêu âm
+ultrasound: siêu âm
+ultrastructure: siêu cấu trúc
+ultraviolet: tia cực tím
+umbrella: ô
+unable: không thể
+unacceptable: không thể chấp nhận được
+unaccommodating: không thoải mái
+unacquainted: không quen biết
+unaddressed: không mặc quần áo
+unadorned: không trang trí
+unaffected: không bị ảnh hưởng
+unambiguous: rõ ràng
+unanimous: nhất trí
+unanswered: không được trả lời
+unanticipated: không lường trước
+unappreciative: không tán thưởng
+unarmed: không có vũ khí
+unashamed: không xấu hổ
+unassociated: không liên kết
+unattractive: không hấp dẫn
+unaudited: chưa được kiểm toán
+unauthorized: không được phép
+unavailable: không có sẵn
+unavoidable: không thể tránh khỏi
+unaware: không biết
+unbeaten: bất bại
+unbeknownst: không biết
+unbelievable: không thể tin được
+unbiased: không thiên vị
+unbilled: chưa thanh toán
+unbounded: không bị ràng buộc
+unbroken: không bị gián đoạn
+uncalculating: không tính toán
+uncanny: kỳ lạ
+unceasing: không ngừng
+uncertain: không chắc chắn
+uncertainty: tính không chắc chắn
+unchallengeable: không thể thách thức
+unchanged: không thay đổi
+unchivalrously: phi thường
+uncle: chú
+unclear: không rõ
+unclog: mở ra
+uncoated: không tráng
+uncomfortable: khó chịu
+uncommon: không phổ biến
+uncommunicative: không thông thạo
+uncomplicated: không phức tạp
+uncompromisable: không khoan nhượng
+uncompromising: không khoan nhượng
+unconceivable: không thể tưởng tượng được
+unconditional: vô điều kiện
+unconformable: không phù hợp
+unconscionable: vô lương tâm
+unconscious: bất tỉnh
+uncontaminated: không bị ô nhiễm
+uncontrollable: không kiểm soát được
+uncontrolled: không kiểm soát được
+uncontroversial: không đối nghịch
+unconventional: khác thường
+unconverted: không được chuyển đổi
+uncool: cởi trần
+uncork: tháo khóa
+uncorrected: chưa sửa
+uncover: khám phá ra
+uncovered: không che đậy
+uncut: chưa cắt
+undead: xác sống
+undemonstrative: không bắt buộc
+under: dưới
+underbody: gầm
+underclothes: quần áo lót
+undercover: bí mật
+undercut: không nói ra
+underdeveloped: kém phát triển
+underestimate: đánh giá quá thấp
+undergo: trải qua
+undergrad: đại học
+underground: dưới lòng đất
+underhand: ám chỉ
+underlain: nền tảng
+underlayment: lớp lót
+underlie: chưa được khai phá
+underlying: cơ bản
+undermine: hủy hoại
+underneath: bên dưới
+undernutrition: thiếu dinh dưỡng
+underpass: đường chui
+underpin: nền tảng
+underpinning: nền tảng
+underpopulated: dân số ít
+underprivileged: kém cỏi
+undersecretary: dưới thư ký
+undersigned: ký tên dưới
+understand: hiểu biết
+understandable: có thể hiểu được
+understanding: hiểu hết
+understated: nói nhỏ
+understatement: sự nói nhỏ
+understood: hiểu
+undertake: đảm nhận
+undertaking: đảm nhận
+undertone: tông màu
+undertook: đã đảm nhận
+underwater: dưới nước
+underwear: đồ lót
+underwent: đã trải qua
+underwriter: người bảo lãnh
+undesirable: không mong muốn
+undesired: không mong muốn
+undeveloped: chưa phát triển
+undies: áo lót
+undisclosed: không tiết lộ
+undisguised: không ngụy trang
+undissociated: không phân ly
+undistinguished: không phân biệt
+undisturbed: không bị xáo trộn
+undo: hoàn tác
+undoing: hoàn tác
+undomesticated: không có tinh vi
+undue: thái quá
+unduly: quá mức
+unearned: chưa được khai phá
+unearthly: rõ ràng
+uneasy: khó chịu
+unelected: không được chọn
+unemotional: bất định
+unemployed: thất nghiệp
+unemployment: thất nghiệp
+unenforceable: không thể thi hành
+unequal: không bằng nhau
+unequivocal: rõ ràng
+uneven: không đồng đều
+unexceptionable: không thể chấp nhận được
+unexceptionably: không thể chấp nhận được
+unexpected: bất ngờ
+unexpired: chưa hết hạn
+unexplained: không giải thích được
+unfailing: không ngừng
+unfair: không công bằng
+unfamiliar: không quen
+unfavorable: không thuận lợi
+unfeeling: không cảm thấy
+unfinished: chưa xong
+unfit: không thích hợp
+unflappable: không thể áp dụng
+unforeseen: không lường trước được
+unforgettable: không thể nào quên
+unfortunate: thật không may
+unfree: không tự do
+unglamorous: không hài hước
+unhappy: không vui
+unhealthful: không có lợi
+unhealthy: không khỏe mạnh
+unheard: không nghe
+unhook: tháo ra
+unhurried: không vội vã
+unidentifiable: không xác định được
+unidentified: không xác định
+unidirectional: một chiều
+uniform: đồng phục
+unify: thống nhất
+unilateral: đơn phương
+unimportant: không quan trọng
+uninfluenced: không có rào cản
+uninjured: không bị thương 
+uninsurable: không thể sửa được
+unintelligible: khó hiểu
+unintentional: không cố ý
+uninterrupted: không bị gián đoạn
+union: liên hiệp
+unique: độc nhất
+unit: đơn vị
+unitary: nhất thể
+unite: đoàn kết
+united: thống nhất
+unity: thống nhất
+universal: phổ cập
+universalistic: phổ quát
+universe: vũ trụ
+university: trường đại học
+unjust: oan gia
+unjustified: phi lý
+unknowing: không biết
+unknown: không xác định
+unlawful: trái pháp luật
+unleaded: không chì
+unleash: giải phóng
+unless: trừ khi
+unlike: không giống
+unlikelihood: không có khả năng
+unlikely: không chắc
+unlimited: vô hạn
+unlit: không có đèn
+unlock: mở khóa
+unlucky: không may
+unmade: chưa làm
+unmake: chưa may
+unmanned: không người lái
+unmarked: không được đánh dấu
+unmarried: chưa kết hôn
+unmask: vạch mặt
+unmatched: vô đối
+unmet: chưa được đáp ứng
+unmistakable: không thể nhầm lẫn
+unmold: không bán
+unmotivated: không có động cơ
+unnamed: vô danh
+unnatural: không tự nhiên
+unnecessary: không cần thiết
+unnoticed: không được chú ý
+unobjectionable: không thể chối cãi
+unobservable: không thể quan sát được
+unofficial: không chính thức
+unorganized: không có tổ chức
+unpaid: chưa thanh toán
+unparalleled: vô song
+unpardonable: không thể tha thứ
+unparliamentary: không có nghị viện
+unpatriotic: không yêu nước
+unplanned: ngoài kế hoạch
+unpleasant: khó chịu
+unpopular: không phổ biến
+unprecedented: chưa từng có
+unpredictable: không thể đoán trước
+unprejudiced: không thành kiến
+unprepossessing: không chuẩn bị
+unproductive: không hiệu quả
+unprofitable: không có lợi
+unpronounceable: không thể phát âm
+unprotected: không được bảo vệ
+unproven: chưa được xác minh
+unpublicized: không công bố
+unpublished: chưa xuất bản
+unqualified: không đủ tiêu chuẩn
+unquestionable: không thể nghi ngờ
+unrated: chưa được xếp hạng
+unravel: làm sáng tỏ
+unrealistic: không thực tế
+unreality: không thực tế
+unreasonable: không hợp lý
+unreconciled: không được ghi lại
+unrefined: không tinh chế
+unreflective: không hoạt động
+unregistered: chưa đăng ký
+unregulated: không được kiểm soát
+unrelated: không liên quan
+unrelenting: không ngừng
+unreliable: không đáng tin cậy
+unrepeatable: không thể lặp lại
+unresolvable: không thể giải quyết
+unresolved: chưa được giải quyết
+unrest: bất ổn
+unrestricted: không hạn chế
+unrewarding: không chuyển tiếp
+unripe: chưa chín
+unrivaled: vô song
+unroll: bỏ cuộn
+unruffled: không gợn sóng
+unsafe: không an toàn
+unsatisfactory: không đạt yêu cầu
+unsecured: không đảm bảo
+unseen: không nhìn thấy
+unsettlednesses: bất ổn
+unskilled: không có kỹ năng
+unsolicited: không được yêu cầu
+unsophisticated: không phức tạp
+unspecified: không xác định
+unspoken: không nói ra
+unsportsmanlike: phi thể thao
+unstable: không ổn định
+unstructured: không có cấu trúc
+unsubstantiated: không có căn cứ
+unsuccessful: không thành công
+unsuitable: không hợp
+unsure: không chắc chắn
+unsurpassed: vượt trội
+unsusceptible: không thể nhận ra
+unsuspecting: không nghi ngờ
+unsustainable: không bền vững
+unsweetened: không đường
+untainted: không sơn
+untapped: chưa được khai thác
+untested: chưa được kiểm tra
+unthinkable: không thể tưởng tượng được
+until: cho đến khi
+unto: đến
+untouched: không đụng chạm
+untreated: chưa được điều trị
+untrue: không có thật
+untypical: không điển hình
+unused: không sử dụng
+unusual: bất thường
+unvarnished: chưa trang bị
+unveil: tiết lộ
+unverifiable: không thể kiểm chứng
+unwanted: không mong muốn
+unwarranted: không chính đáng
+unwelcome: không được hoan nghênh
+unwieldy: khó di chuyển
+unwilling: không muốn
+unwrap: mở ra
+upbringing: nuôi dưỡng
+upcoming: sắp tới
+update: cập nhật
+upgrade: nâng cấp
+upheaval: biến động
+upheld: đề cao
+uphill: lên dốc
+uphold: đề cao
+uplink: đường lên
+upload: tải lên
+upon: trên
+upper: phía trên
+uppercase: chữ hoa
+upright: ngay thẳng
+uprising: cuộc nổi dậy
+upscale: cao cấp
+upset: buồn bã
+upsize: tăng kích thước
+upstairs: tầng trên
+upstream: thượng nguồn
+upsurge: thăng trầm
+upswing: nâng lên
+uptake: hấp thu
+uptime: thời gian hoạt động
+uptrend: xu hướng tăng
+upward: hướng lên
+urban: thành thị
+ureter: niệu quản
+urge: thúc giục
+urgency: khẩn cấp
+urgent: khẩn cấp
+urine: nước tiểu
+usable: dùng được
+usage: sử dụng
+used: đã sử dụng 
+useful: hữu ích
+useless: vô ích
+user: người dùng
+usher: mở ra
+usual: bình thường
+usurp: chiếm đoạt
+utilitarian: thực dụng
+utilitarianism: thuyết vị lợi
+utility: tiện ích
+utilize: sử dụng
+utmost: hết sức
+utopian: không tưởng
+utter: thốt ra
+utterly: hoàn toàn
+vacancy: vị trí tuyển dụng
+vacant: bỏ trống
+vacation: kỳ nghỉ
+vacationland: kỳ nghỉ
+vaccination: tiêm chủng
+vaccine: vắc xin
+vacuum: máy hút bụi
+vague: mơ hồ
+vail: thùng
+vain: vô ích
+vainglorious: hay khoe khoang
+valediction: định giá
+valedictorian: thủ khoa
+valedictorians: thủ khoa
+valedictory: thủ khoa
+valentine: lễ tình nhân
+valet: người hầu
+valetudinarian: người hầu
+valetudinarians: người hầu
+valetudinary: người hầu
+valid: có hiệu lực
+validate: xác nhận
+valley: thung lũng
+valuable: quý giá
+valuablenesses: giá trị
+valuation: định giá
+value: giá trị
+valuelessnesses: vô giá trị
+valve: van
+vandalism: sự phá hoại
+vandalizations: phá hoại
+vane: cánh gạt
+vanguard: đội tiên phong
+vanish: tan biến
+vanity: tự phụ
+vantage: thuận lợi
+vapor: hơi
+vaporishnesses: sự bốc hơi
+vapour: hơi nước
+variability: sự  thay đổi
+variable: biến đổi
+variablenesses: sự thay đổi
+variance: phương sai
+variant: biến thể
+variation: biến thể
+varied: đa dạng
+variegated: loang lổ
+varietal: giống nhau
+variety: đa dạng
+various: đa dạng
+vary: khác nhau
+vascular: mạch máu
+vascularization: mạch máu
+vasculature: mạch máu
+vasculitis: viêm mạch
+vase: cái bình hoa
+vasoactive: hoạt huyết
+vasoactivities: hoạt động mạch
+vasoconstrictor: thuốc co mạch
+vasodilatation: giãn mạch
+vasodilatations: giãn mạch
+vasodilation: giãn mạch
+vasodilator: thuốc giãn mạch
+vast: rộng lớn
+vaticination: sự say mê
+vaudeville: tạp kỹ
+vault: kho tiền
+vaulting: kho tiền
+veal: thịt bê
+veer: xoay quanh
+vegetable: rau
+vegetarian: ăn chay
+vegetarianism: ăn chay
+vegetarianisms: người ăn chay
+vegetation: thảm thực vật
+vegetative: thực vật
+vegetativeness: sinh dưỡng
+vehicle: phương tiện
+vehicular: xe cộ
+veil: mạng che mặt
+veiled: che kín mặt
+vein: tĩnh mạch
+velociraptor: vận tốc
+velocity: vận tốc
+velvet: nhung
+vendor: người bán hàng
+veneer: ván lạng
+venerable: đáng kính
+venerablenesses: đáng kính
+veneration: sự tôn kính
+vengeance: sự báo thù
+venipuncture: chích tĩnh mạch
+venom: nọc độc
+venous: tĩnh mạch
+vent: lỗ thông hơi
+ventilation: thông gió
+ventilator: máy thở
+ventricle: tâm thất
+ventricular: tâm thất
+ventriloquially: nói tiếng bụng
+ventriloquists: người nói tiếng bụng
+ventriloquized: nói tiếng bụng
+ventrolateral: bên bụng
+ventromedial: não thất
+venture: liên doanh
+venturesome: thích mạo hiểm
+venturesomely: mạo hiểm
+venturesomeness: tính mạo hiểm 
+venturousness: tính mạo hiểm
+venue: hội họp
+veraciousness: ý thức
+veraciousnesses: ý thức
+verb: động từ
+verbal: bằng lời nói
+verbalization: lời nói
+verbalizations: lời nói
+verbatim: nguyên văn
+verbigeration: xung quanh
+verbosenesses: độ dài
+verdict: phán quyết
+verge: bờ vực
+veridicalities: những thói quen 
+verifiabilities: xác minh trách nhiệm pháp lý
+verifiability: khả năng xinh minh
+verifiable: có thể kiểm chứng
+verifiableness: khả năng xác minh
+verification: xác minh
+verifications: xác minh
+verify: kiểm chứng
+verisimilarly: tương tự
+veritable: thực sự
+veritableness: tính chân mật
+veritablenesses: thực sự
+verity: chân thật
+vermicelli: bún tàu
+vermiculation: vi khuẩn
+vermiculations: chế phẩm sinh học
+vermilion: màu đỏ son
+vernacular: tiếng địa phương
+versatile: linh hoạt
+versatileness: tính linh hoạt
+versatilenesses: tính linh hoạt
+versatilities: sự tương đồng
+verse: thơ
+versed: thành thạo
+versification: sự linh hoạt
+versifications: sự thay đổi
+version: phiên bản
+versus: đấu với
+vertebral: đốt sống
+vertebrate: động vật có xương sống
+vertical: theo chiều dọc
+verticalities: dọc
+verticalnesses: độ thẳng đứng
+verticillate: dọc
+vertiginous: chóng mặt
+vertiginously: dài dòng
+very: rất
+vesicularities: mụn nước
+vesiculations: mụn nước
+vessel: tàu
+vest: áo vest
+vested: được trao
+vestibular: tiền đình
+vestibule: tiền đình
+veteran: cựu chiến binh
+veterinarian: bác sĩ thú y
+veterinary: thú y
+veto: phủ quyết
+vexatiousnesses: khó chịu
+viable: khả thi
+vial: lọ
+vibe: rung cảm
+vibrant: sôi động
+vibraphone: rung
+vibration: rung động
+vicarious: tương đối
+vicariousnesses: nạn nhân
+vice: hành vi xấu xa
+viceroyalty: lòng trung thành
+vicinity: lân cận
+vicious: luẩn quẩn
+vicissitudinous: thăng trầm
+victim: nạn nhân
+victimless: nạn nhân
+victimology: nạn nhân
+victor: người chiến thắng
+victorious: chiến thắng
+victory: chiến thắng
+video: video
+videoconference: cầu truyền hình
+videography: quay phim
+videophone: cuộc gọi video
+videotape: băng video
+view: lượt xem
+viewer: người xem
+viewership: lượng người xem
+viewfinder: kính ngắm
+viewing: đang xem
+viewpoint: quan điểm
+vigil: cảnh giác
+vigilance: cảnh giác
+vigilant: cảnh giác
+vigilante: người cảnh giác
+vignette: họa tiết
+vigor: sức sống
+vigorous: mạnh mẽ
+vigour: sức sống
+vile: hèn hạ
+villa: biệt thự
+village: làng
+villain: nhân vật phản diện
+villainess: tính xấu xa
+villainous: phản diện
+vinaigrette: giấm
+vindicate: minh oan
+vindication: sự minh oan
+vindictive: thù hằn
+vine: cây nho
+vinegar: giấm
+vineyard: vườn nho
+vintage: cổ điển
+vinyl: nhựa
+violate: xâm phạm
+violation: sự vi phạm
+violence: bạo lực
+violent: hung bạo
+violet: màu tím
+violin: đàn vi ô lông
+viral: lan tỏa
+virgin: trinh nữ
+virginity: trinh tiết
+virologically: về mặt virus
+virtual: ảo
+virtually: hầu như
+virtue: đức hạnh
+virtuosities: kỹ thuật điêu luyện
+virtuosity: kỹ thuật điêu luyện
+virtuoso: điêu luyện
+virtuous: đức hạnh
+virtuousness: đức hạnh
+virulent: độc hại
+viruliferous: còn trinh
+virus: vi rút
+visa: hộ chiếu
+visceral: nội tạng
+viscoelasticity: tính nhớt dẻo
+viscometer: máy đo độ nhớt
+viscometries: nhớt kế
+viscosimeter: máy đo độ nhớt
+viscosity: độ nhớt
+viscountess: nữ tử tước
+visibility: hiển thị
+visible: có thể nhìn thấy
+vision: tầm nhìn
+visionarinesses: tầm nhìn xa trông rộng
+visionary: nhìn xa trông rộng
+visit: chuyến thăm
+visitation: thăm viếng
+visitatorial: thăm khám bệnh
+visitor: khách thăm quan
+visual: trực quan
+visualize: hình dung
+visualizer: trình hiển thị
+vital: quan trọng
+vitality: sức sống
+vitalization: sự sống lại
+vitamin: vitamin
+viticulture: nghề trồng nho
+vitrectomy: cắt dịch kính 
+vituperation: chửi rủa
+vivacious: hoạt bát
+vivaciousnesses: hoạt bát
+vivid: sống động
+vivisection: hình dung
+vivisectionists: những người theo chủ nghĩa tưởng tượng
+vocabulary: từ vựng
+vocal: giọng hát
+vocalist: giọng ca
+vocalizations: giọng nói
+vocation: công việc
+vocational: nghề
+vocationalism: chủ nghĩa nghề nghiệp
+vocationalisms: dạy nghề
+vociferations: tiếng nói
+vociferous: to tiếng
+vodka: rượu vodka
+vogue: thịnh hành
+voice: tiếng nói
+voiced: lồng tiếng
+voicefulnesses: giọng nói
+voiceless: vô thanh
+voicelessness: vô thanh
+voicelessnesses: vô thanh
+voiceprint: giọng nói
+void: vô hiệu
+voidablenesses: tính vô hiệu
+volatile: bay hơi
+volatilenesses: tính dễ bay hơi
+volatilizable: dễ bay hơi
+volatilization: bay hơi
+volatilizations: bay hơi
+volatilize: bay hơi
+volcanic: núi lửa
+volcanicities: núi lửa
+volcano: núi lửa
+volcanological: núi lửa
+volcanologies: núi lửa
+volcanologist: nhà núi lửa học
+volcanologists: các nhà núi lửa học
+volley: chuyền
+volleyball: bóng chuyền
+volt: vôn
+voltage: vôn
+volublenesses: độ hòa tan
+volume: âm lượng
+volumetric: thể tích
+volumetrically: về mặt thể tích
+voluminosities: khối lượng
+voluminous: đồ sộ
+voluminousness: đồ sộ
+voluntariness: sự tự nguyện
+voluntarinesses: sự tự nguyện
+voluntarism: tình nguyện
+voluntaristic: tự nguyện
+voluntary: tình nguyện
+voluntaryism: chủ nghĩa tự nguyện
+voluntaryisms: sự tự nguyện
+voluntaryists: những người tự nguyện
+volunteer: tình nguyện viên
+volunteerism: tình nguyện
+volunteerisms: tình nguyện
+voluptuousness: sự gợi cảm
+voodoo: thư
+voracious: tham ăn 
+voraciousness: phàm ăn
+voraciousnesses: phàm ăn
+vortex: xoáy nước
+vote: bỏ phiếu
+voter: cử tri
+voucher: chứng từ
+vouchsafement: xác nhận
+vouchsafements: bảo đảm
+voyage: hành trình
+voyeuristically: mãn nhãn
+vulgar: thô tục
+vulgarity: thô tục
+vulnerabilities: lỗ hổng bảo mật
+vulnerable: dễ bị tổn thương
+vying: tranh giành
+waitressing: hầu bàn
+walker: người đi bộ
+walking: đi dạo
+wall: tường
+wallpaper: hình nền
+want: muốn
+war: chiến tranh
+wardrobe: tủ quần áo
+warehouse: kho
+warehouseman: nhân viên kho hàng
+warmheartedness: lòng nhân hậu
+warranty: sự bảo đảm
+was: đã
+wastebasket: thùng rác
+wasteland: đất hoang
+wastewater: nước thải
+watch: đồng hồ đeo tay
+watchdog: người canh gác
+watchfulnesses: cảnh giác
+water: nước
+watercolor: màu nước
+watercolorists: màu nước
+watercraft: tàu thủy
+watercress: cải xoong
+waterfall: thác nước
+waterfowling: chim nước
+waterfront: bờ sông
+waterlogged: úng nước
+waterproof: không thấm nước
+watershed: đầu nguồn
+watertight: kín nước
+waterworks: công trình nước
+wavelength: bước sóng
+wax: sáp
+way: đường
+ways: cách
+weakness: yếu đuối
+wealth: sự giàu có
+weapon: vũ khí
+wearability: khả năng mặc
+wearisomenesses: mệt mỏi
+weather: thời tiết
+weatherboard: bảng thời tiết
+weatherboarding: lướt ván
+weathercasts: dự báo thời tiết
+weathercocks: thời tiết
+weathered: phong hóa
+weatherglass: kính thời tiết
+weathering: phong hóa
+weatherizations: phong hóa
+weatherizing: phong hóa
+weatherproof: thời tiết
+weatherproofing: thời tiết
+web: website
+webmaster: quản vị viên web
+website: trang mạng
+wed: thứ tư
+wee: một chút
+week: tuần
+weekend: ngày cuối tuần
+weekly: hàng tuần
+weight: cân nặng
+weighted: có trọng lượng
+weightlessly: không trọng lượng
+welcome: chào mừng
+well: tốt
+welterweight: trọng lượng hàn
+went: đã đi
+were: là
+west: cách
+western: miền Tây
+westernisations: phương Tây hóa
+westernmost: cực Tây
+wet: ướt
+what: cái gì
+whatever: bất cứ điều gì
+whatsoever: bất cứ điều gì
+wheelbarrow: xe cút kít
+wheelbarrowed: xe cút kít
+wheelbarrowing: xe cút kít
+wheelchair: xe lăn
+wheelwright: thợ làm bánh xe
+when: khi nào
+whenever: bất cứ điều gì
+where: ở đâu
+whereabouts: nơi ở
+whereas: trong khí
+wherethrough: qua
+whereupon: từ đó
+wherever: bất cứ nơi nào
+whether: liệu
+which: cái nào
+whichever: nào
+while: trong khi
+whilst: trong khi
+whimsical: hay thay đổi
+whimsicalities: hay thay đổi
+whimsicality: tính hay thay đổi
+whimsicalness: hay thay đổi
+whipstitching: roi da
+whirlpool: xoáy nước
+whirlwind: gió lốc
+white: trắng 
+whitehead: tóc trắng
+whitewashings: tẩy trắng
+whithersoever: tuy nhiên
+who: ai
+whole: toàn bộ
+wholehearted: hết lòng
+wholeheartedly: hết lòng
+wholesale: bán sỉ
+wholesome: lành mạnh
+wholesomeness: tính lành mạnh
+wholly: hoàn toàn
+whom: ai
+whortleberries: quả việt quất
+whortleberry: cây nham lê
+whose: ai
+why: tại sao
+wider: rộng
+widespread: phổ biến rộng rãi
+wife: người vợ
+wilderness: hoang vu
+wildlife: động vậy hoang dã
+will: sẽ
+willfulnesses: ý chí
+willing: sẵn lòng
+willingnesses: sự sẵn lòng
+wimpishnesses: tính xấu
+win: chiến thắng
+window: cửa sổ
+windscreen: kính ô tô
+windshield: kính chắn gió
+windsurfing: lướt ván
+winglessnesses: không có cánh
+winner: người chiến thắng
+winning: chiến thắng
+winsomenesses: những lợi ích
+winter: mùa đông
+winterberries: quả việt quất
+winterfeeding: cho ăn đông
+wintergreen: mùa đông xanh
+winterization: đồng hóa
+wire: dây điện
+wireless: không dây
+wis: khôn ngoan
+wisdom: sự khôn ngoan
+wishfulnesses: mơ ước
+wistfulnesses: bâng khuâng
+wit: mưu mẹo
+witchcraft: phù thủy
+with: với
+withdraw: rúi lui
+withdrawal: rút tiền
+withdrawn: rút lại
+withdrawnness: sự rút lui
+withholding: khấu trừ
+within: trong
+without: không có
+withoutdoors: không có ngoài trời
+withstand: chịu được
+witlessnesses: sự khôn ngoan
+woman: đàn bà
+womanishnesses: phụ nữ
+women: đàn bà
+won: đã thắng
+wonder: ngạc nhiên
+wonderful: tuyệt vời
+wonderfulness: sự tuyệt vời
+wonderfulnesses: sự tuyệt vời
+wondering: tự hỏi
+wonderland: xứ sở thần tiên
+wondrousnesses: sự kỳ diệu
+woo: gâu gâu
+wooden: bằng gỗ
+woodland: rừng cây
+woodpecker: chim gõ kiến
+woodworking: chế biến gỗ
+word: từ ngữ
+wordlessnesses: không lời
+work: công việc
+workable: khả thi
+workablenesses: tính khả thi
+workaholic: tham công tiếc việc
+workbench: bàn làm việc
+worker: công nhân
+workflow: quy trình làm việc
+working: đang làm việc
+workingwoman: phụ nữ làm việc
+worklessnesses: thất nghiệp
+workload: khối lượng công việc
+workmanlike: công nhân
+workmanship: tay nghề
+workplace: nơi làm việc
+workshop: xưởng
+workstation: máy trạm
+world: thế giới
+worldwide: trên toàn thế giới
+worshipfulness: sự tôn thờ
+worth: đáng giá
+worthless: vô giá trị
+worthlessnesses: những điều vô giá trị
+worthwhile: đáng giá
+worthwhileness: đáng giá
+worthy: xứng đáng
+would: sẽ
+wow: wow
+wrapping: gói
+wreckage: đống đổ nát
+wrestling: đấu vật
+wright: vặn vẹo
+wristwatch: đồng hồ đeo tay
+write: viết
+writer: nhà văn
+writing; viết
+waiting: đang chờ đợi
+written: bằng văn bản
+wrong: sai lầm
+wrote: đã viết
+wry: nhăn nhó
+xanthous: Vàng (da, tóc)
+xe: Kỷ nguyên tố xennon
+xebec: Thuyền Xebec 
+xenanthemum: cây lai chéo
+xennolth: Đá trong khối phun trào từ núi lửa
+xenogamy: Sự lai chéo
+xenon: Khí xenon
+xenophobe: Người bài ngoại
+xenphobla: Sự bài ngoại
+xerodemma: Bệnh khô da
+xerogrphy: Tự sao chụp tính điện
+xerophilous: thích nghi điều kiện khô hạn, chịu hạn
+xerophthalmia: Bệnh khô mắt
+xerophyte: Thực vật chịu hạn
+xerox: Máy sao chụp
+xylocarp: Quả mộc, quả gỗ
+xylograph: Bản khắc gỗ
+xylography: Thuật khắc gỗ
+xyloid: Có gỗ, dạng gỗ; có linin
+xylophone: Đàn phiến gỗ
+yabbering: tiếng kêu
+yacht: thuyền buồm
+yachtings: du thuyền
+yachtsmen: du thuyền
+yang: dương
+yank: giật mạnh
+yappingly: ngáp
+yard: sân
+yardbird: chim sơn ca
+yardbirds: chim sân
+yardlands: sân đất
+yardman: người làm sân
+yardmaster: chủ sân
+yardmasters: người quản lý sân bãi 
+yardsticks: thước đo
+yardworks: sân bãi
+yarn: sợi
+yarns: sợi
+yawls: ngáp
+yawmeters: ngáp
+yawn: ngáp
+yawningly: ngáp
+yawns: ngáp
+yeah: vâng
+yeanling: dê con
+year: năm
+yearbook: niên giám
+yearbooks: kỷ yếu
+yearling: khao khát
+yearlings: năm con
+yearlong: kéo dài
+yearn: khao khát
+yearning: khao khát
+yearningly: khao khát
+yearnings: khao khát
+yeast: men
+yeastiest: đẹp nhất
+yeastiness: sự tinh thần
+yeastless: không men
+yeastlike: giống như men
+yeasty: khoa trương
+yell: la lên
+yellowest: màu vàng nhất
+yellowfins: sợi vàng
+yellowhammers: chim săn vàng
+yellowing: ố vàng
+yellowlegs: chân vàng
+yellowtail: đuôi vàng
+yellowtails: màu vàng
+yellowthroats: màu vàng
+yellowware: đồ vàng
+yellowwares: đồ vàng
+yellowwood: gỗ màu vàng
+yellowwoods: gỗ vàng
+yelp: kêu lên
+yenned: yên tâm
+yeomanries: nấm men
+yeomanry: phong thủy
+yes: vâng
+yesterdays: những ngày qua
+yesternights: những đêm qua
+yesteryear: năm qua
+yet: chưa
+yeuked: yêu thích
+yield: năng suất
+yielding: năng suất
+yikes: yểu điệu
+yoga: yoga
+yogurt: sữa chua
+yoke: ách
+yolk: lòng đỏ
+you: bạn
+young: trẻ
+youngberries: quả non, quả xanh
+youngberry: dâu non
+youngish: trẻ trung
+younglings: con non
+youngnesses: tuổi trẻ
+youngsters: thanh niên
+your: của bạn
+yours: của bạn
+yourself: bản thân bạn
+yourselves: bản thân các bạn
+youth: thiếu niên
+youthful: trẻ trung
+youthfulness: sự trẻ trung
+youthfulnesses: sự trẻ trung
+youthquake: tuổi trẻ
+yuan: nhân dân tệ
+yuck: kinh quá
+yuckiness: kinh ngạc
+yucking: hét lên
+yummy: ngon ngon
+zaffre: Phẩm lục
+zag: Sự đổi hướng đột ngột trên đường dích dắc.
+zahaglione: Món tráng miệng của người Ý
+zamboo: Người lai da đen.
+zany: Nhố nhăng, kì cục
+zappy: Sống động, sôi nổi, hoạt bát
+zeabra: Ngựa Vằn
+zeal: Lòng sốt sắng, lòng hăng hái
+zealet: Người cuồng tín, người quá khích
+zealous: Sốt sắng, hăng hái, có nhiệt huyết
+zed: Chữ Z
+zeltgelst: lý tưởng
+zemlndar: Điền chủ, địa chủ
+zen: Đạo Thiền
+zenistvo: Hội đồng tự quản địa phương; vải mỏng
+zenoism: chủ nghĩa khắc kỷ
+zenth: Thiên định; điểm cao nhất
+zephyr: Văn gió mát, gió hiu hiu, gió nhẹ
+zero: số 0
+zigzag: Ngoằn ngoèo
+zilch: Lóng không có gì
+zillionaire: Nhà giàu kết sù, kẻ giàu sụ
+zinc: kēm
+zincoggraph: bản in kẽm
+zincoraphy: Thuật khắc bản kẽm
+zip: khoá kéo
+zlion: Tục số lớn, vô hạn
+zodiac: cung hoàng Đạo
+zone: Khu vực, miền, vùng
+zoo: vườn thú
